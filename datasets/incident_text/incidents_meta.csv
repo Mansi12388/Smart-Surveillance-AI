@@ -1,0 +1,1537 @@
+text,label,template_id
+a staff member rushed beside the elevator and pushed through the crowd.,Rapid Movement,rapid_2
+"The fire exit sign in the corridor needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+"The air conditioner at the loading dock needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A guard entered the building at the loading dock and showed an access pass.,Normal Activity,normal_4
+A fast movement was noticed near the exit door: A child was running.,Rapid Movement,rapid_7
+A visitor was waiting on the second floor for a colleague.,Normal Activity,normal_6
+A young woman slipped and fell in the cafeteria.,Fall Report,fall_1
+A young woman suddenly started running in the corridor.,Rapid Movement,rapid_5
+"Routine movement observed at the loading dock, nothing unusual.",Normal Activity,normal_5
+A student sprinted at the main gate toward the exit.,Rapid Movement,rapid_1
+A person sat on a bench in the cafeteria reading a newspaper.,Normal Activity,normal_3
+someone was found lying motionless on the floor in the lobby.,Fall Report,fall_4
+Facility alert: water dispenser in the cafeteria is out of order.,Facility Issue,facility_7
+An elderly man suddenly started running in the cafeteria.,Rapid Movement,rapid_5
+A student suddenly started running beside the elevator,Rapid Movement,rapid_5
+A man ran quickly at the loading dock while leaving the hall,Rapid Movement,rapid_0
+a student entered the building in the cafeteria and showed an access pass.,Normal Activity,normal_4
+The water dispenser near the reception desk is jammed and cannot be used.,Facility Issue,facility_6
+A guard reported that the air conditioner at the loading dock is broken,Facility Issue,facility_1
+there is a water leak near the fire exit sign at the main gate.,Facility Issue,facility_2
+There is a water leak near the water dispenser in the lobby.,Facility Issue,facility_2
+"The automatic door on the second floor needs maintenance, it is making a loud noise",Facility Issue,facility_4
+The window latch near the reception desk is not working,Facility Issue,facility_0
+The water pipe beside the elevator is jammed and cannot be used,Facility Issue,facility_6
+A customer sat on a bench beside the elevator reading a newspaper.,Normal Activity,normal_3
+"A wet floor warning is needed at the loading dock, the fire exit sign is leaking.",Facility Issue,facility_5
+"Routine movement observed in the parking lot, nothing unusual.",Normal Activity,normal_5
+Report of a fall: A staff member went down near the exit door while walking,Fall Report,fall_7
+A person walked slowly in the lobby while climbing the stairs and left the area.,Normal Activity,normal_7
+A woman walked calmly in the lobby while turning a corner,Normal Activity,normal_0
+An elderly man collapsed at the main gate and was lying on the floor.,Fall Report,fall_2
+a person entered the building at the main gate and showed an access pass.,Normal Activity,normal_4
+A staff member tripped over the step in the parking lot and hit the ground.,Fall Report,fall_3
+A child collapsed near the exit door and was lying on the floor.,Fall Report,fall_2
+A student rushed in the parking lot and pushed through the crowd.,Rapid Movement,rapid_2
+A fast movement was noticed in the corridor: An elderly man was running.,Rapid Movement,rapid_7
+A young woman lost balance while climbing the stairs and dropped to the ground in the corridor.,Fall Report,fall_5
+An employee fell near the entrance while carrying a bag.,Fall Report,fall_0
+An employee entered the building at the loading dock and showed an access pass,Normal Activity,normal_4
+A fast movement was noticed at the main gate: A woman was running.,Rapid Movement,rapid_7
+A student suddenly started running near the exit door.,Rapid Movement,rapid_5
+a man walked slowly beside the elevator while turning a corner and left the area.,Normal Activity,normal_7
+a person tripped over the step in the corridor and hit the ground.,Fall Report,fall_3
+a student fell near the reception desk while leaving the hall.,Fall Report,fall_0
+"A wet floor warning is needed on the staircase, the water pipe is leaking.",Facility Issue,facility_5
+"The water pipe in the corridor needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A staff member reported that the water pipe on the second floor is broken.,Facility Issue,facility_1
+A customer collapsed beside the elevator and was lying on the floor.,Fall Report,fall_2
+A customer sprinted near the reception desk toward the exit.,Rapid Movement,rapid_1
+A guard sat on a bench near the entrance reading a newspaper.,Normal Activity,normal_3
+The automatic door near the entrance has been flickering since morning.,Facility Issue,facility_3
+A student walked calmly near the entrance while climbing the stairs.,Normal Activity,normal_0
+A customer walked calmly in the corridor while leaving the hall.,Normal Activity,normal_0
+A person bolted beside the elevator without stopping.,Rapid Movement,rapid_6
+A young woman hurried in the lobby at high speed while leaving the hall.,Rapid Movement,rapid_4
+An employee fell on the staircase while turning a corner.,Fall Report,fall_0
+"A wet floor warning is needed in the lobby, the automatic door is leaking.",Facility Issue,facility_5
+A fast movement was noticed beside the elevator: A person was running.,Rapid Movement,rapid_7
+The fire exit sign in the parking lot is jammed and cannot be used,Facility Issue,facility_6
+"A customer fell down in the corridor, other people rushed to help.",Fall Report,fall_6
+There is a water leak near the air conditioner in the corridor.,Facility Issue,facility_2
+"A staff member fell down beside the elevator, other people rushed to help.",Fall Report,fall_6
+"The side gate lock in the lobby needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A staff member slipped and fell in the parking lot.,Fall Report,fall_1
+A visitor entered the building near the entrance and showed an access pass.,Normal Activity,normal_4
+a child slipped and fell near the exit door.,Fall Report,fall_1
+"Routine movement observed near the reception desk, nothing unusual.",Normal Activity,normal_5
+a woman was waiting in the lobby for a colleague.,Normal Activity,normal_6
+a man fell near the exit door while waiting in line.,Fall Report,fall_0
+The window latch on the second floor has been flickering since morning.,Facility Issue,facility_3
+A student was waiting in the parking lot for a colleague.,Normal Activity,normal_6
+A child fell in the cafeteria while carrying a bag.,Fall Report,fall_0
+A young woman bolted in the cafeteria without stopping.,Rapid Movement,rapid_6
+"The security camera in the cafeteria needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+The window latch in the parking lot has been flickering since morning.,Facility Issue,facility_3
+A guard sprinted in the parking lot toward the exit.,Rapid Movement,rapid_1
+A woman walked calmly on the staircase while carrying a bag.,Normal Activity,normal_0
+A person fell near the entrance while climbing the stairs.,Fall Report,fall_0
+A student suddenly started running near the entrance.,Rapid Movement,rapid_5
+the window latch beside the elevator is not working.,Facility Issue,facility_0
+A staff member hurried on the staircase at high speed while waiting in line.,Rapid Movement,rapid_4
+A guard entered the building near the exit door and showed an access pass.,Normal Activity,normal_4
+Report of a fall: An employee went down in the lobby while climbing the stairs.,Fall Report,fall_7
+A person reported that the ceiling light in the corridor is broken.,Facility Issue,facility_1
+A staff member walked calmly on the staircase while walking.,Normal Activity,normal_0
+Facility alert: access card reader at the main gate is out of order.,Facility Issue,facility_7
+"the corridor lamp near the reception desk needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+An elderly man sprinted in the cafeteria toward the exit.,Rapid Movement,rapid_1
+An employee collapsed near the reception desk and was lying on the floor.,Fall Report,fall_2
+A guard entered the building in the corridor and showed an access pass.,Normal Activity,normal_4
+A person suddenly started running in the parking lot.,Rapid Movement,rapid_5
+A student collapsed in the lobby and was lying on the floor.,Fall Report,fall_2
+A staff member reported that the fire exit sign in the cafeteria is broken.,Facility Issue,facility_1
+A woman rushed beside the elevator and pushed through the crowd.,Rapid Movement,rapid_2
+an employee stood in line near the exit door and waited patiently.,Normal Activity,normal_1
+A customer lost balance while leaving the hall and dropped to the ground in the parking lot.,Fall Report,fall_5
+A visitor rushed in the cafeteria and pushed through the crowd.,Rapid Movement,rapid_2
+A young woman tripped over the step in the lobby and hit the ground.,Fall Report,fall_3
+A staff member collapsed at the main gate and was lying on the floor.,Fall Report,fall_2
+Report of a fall: A visitor went down in the cafeteria while waiting in line.,Fall Report,fall_7
+A customer was waiting in the lobby for a colleague.,Normal Activity,normal_6
+An employee sprinted in the cafeteria toward the exit.,Rapid Movement,rapid_1
+There is a water leak near the window latch in the corridor.,Facility Issue,facility_2
+A fast movement was noticed in the parking lot: A staff member was running.,Rapid Movement,rapid_7
+"An employee fell down at the loading dock, other people rushed to help.",Fall Report,fall_6
+A man sprinted beside the elevator toward the exit,Rapid Movement,rapid_1
+A young woman stood in line near the reception desk and waited patiently.,Normal Activity,normal_1
+a man walked slowly in the parking lot while talking on the phone and left the area.,Normal Activity,normal_7
+A man lost balance while entering the building and dropped to the ground at the main gate.,Fall Report,fall_5
+a child bolted at the main gate without stopping.,Rapid Movement,rapid_6
+The automatic door on the staircase is not working.,Facility Issue,facility_0
+A customer entered the building beside the elevator and showed an access pass.,Normal Activity,normal_4
+A young woman reported that the access card reader at the main gate is broken.,Facility Issue,facility_1
+A woman entered the building on the staircase and showed an access pass.,Normal Activity,normal_4
+A customer ran quickly in the parking lot while walking.,Rapid Movement,rapid_0
+"A wet floor warning is needed near the entrance, the automatic door is leaking.",Facility Issue,facility_5
+A woman walked slowly beside the elevator while carrying a bag and left the area.,Normal Activity,normal_7
+A man entered the building at the loading dock and showed an access pass.,Normal Activity,normal_4
+A student rushed near the exit door and pushed through the crowd.,Rapid Movement,rapid_2
+A student stood in line on the staircase and waited patiently.,Normal Activity,normal_1
+A person bolted in the lobby without stopping.,Rapid Movement,rapid_6
+Facility alert: ceiling light near the exit door is out of order.,Facility Issue,facility_7
+A man lost balance while climbing the stairs and dropped to the ground on the staircase.,Fall Report,fall_5
+A visitor walked slowly beside the elevator while turning a corner and left the area.,Normal Activity,normal_7
+a young woman sprinted beside the elevator toward the exit.,Rapid Movement,rapid_1
+Report of a fall: A customer went down in the lobby while leaving the hall.,Fall Report,fall_7
+"The fire exit sign in the lobby needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A guard tripped over the step in the cafeteria and hit the ground.,Fall Report,fall_3
+A student sat on a bench at the loading dock reading a newspaper.,Normal Activity,normal_3
+A student hurried near the reception desk at high speed while walking.,Rapid Movement,rapid_4
+A woman fell beside the elevator while waiting in line,Fall Report,fall_0
+A young woman entered the building beside the elevator and showed an access pass.,Normal Activity,normal_4
+An elderly man walked calmly beside the elevator while waiting in line.,Normal Activity,normal_0
+A young woman sat on a bench in the cafeteria reading a newspaper.,Normal Activity,normal_3
+A staff member stood in line at the main gate and waited patiently.,Normal Activity,normal_1
+the automatic door at the loading dock is not working.,Facility Issue,facility_0
+A student hurried near the entrance at high speed while leaving the hall.,Rapid Movement,rapid_4
+the water dispenser in the parking lot has been flickering since morning.,Facility Issue,facility_3
+"Routine movement observed near the entrance, nothing unusual.",Normal Activity,normal_5
+a man sat on a bench in the corridor reading a newspaper.,Normal Activity,normal_3
+The security camera on the second floor is not working,Facility Issue,facility_0
+A guard suddenly started running near the reception desk.,Rapid Movement,rapid_5
+A guard walked slowly near the entrance while entering the building and left the area.,Normal Activity,normal_7
+A visitor suddenly started running on the second floor.,Rapid Movement,rapid_5
+An elderly man tripped over the step on the second floor and hit the ground.,Fall Report,fall_3
+Report of a fall: A customer went down near the entrance while carrying a bag.,Fall Report,fall_7
+a child lost balance while carrying a bag and dropped to the ground near the reception desk.,Fall Report,fall_5
+A child slipped and fell at the loading dock.,Fall Report,fall_1
+"a wet floor warning is needed in the parking lot, the corridor lamp is leaking.",Facility Issue,facility_5
+a child ran quickly near the exit door while entering the building.,Rapid Movement,rapid_0
+A student suddenly started running in the lobby.,Rapid Movement,rapid_5
+A customer walked calmly near the reception desk while waiting in line.,Normal Activity,normal_0
+A guard sat on a bench near the exit door reading a newspaper.,Normal Activity,normal_3
+A young woman fell beside the elevator while waiting in line.,Fall Report,fall_0
+A person stood in line in the cafeteria and waited patiently.,Normal Activity,normal_1
+A visitor reported that the automatic door at the main gate is broken.,Facility Issue,facility_1
+A child slipped and fell in the lobby.,Fall Report,fall_1
+A student sprinted in the cafeteria toward the exit.,Rapid Movement,rapid_1
+The elevator near the entrance is jammed and cannot be used.,Facility Issue,facility_6
+A student walked slowly in the cafeteria while walking and left the area.,Normal Activity,normal_7
+A person rushed at the main gate and pushed through the crowd.,Rapid Movement,rapid_2
+a customer suddenly started running in the parking lot.,Rapid Movement,rapid_5
+An employee suddenly started running at the loading dock.,Rapid Movement,rapid_5
+Report of a fall: A child went down beside the elevator while talking on the phone.,Fall Report,fall_7
+There is a water leak near the corridor lamp near the reception desk.,Facility Issue,facility_2
+A woman hurried near the exit door at high speed while walking.,Rapid Movement,rapid_4
+The side gate lock on the staircase is jammed and cannot be used.,Facility Issue,facility_6
+"Routine movement observed on the second floor, nothing unusual.",Normal Activity,normal_5
+a young woman walked calmly near the entrance while walking.,Normal Activity,normal_0
+A student was waiting near the reception desk for a colleague.,Normal Activity,normal_6
+A man was waiting in the parking lot for a colleague.,Normal Activity,normal_6
+A person sat on a bench on the second floor reading a newspaper.,Normal Activity,normal_3
+A guard stood in line on the staircase and waited patiently.,Normal Activity,normal_1
+A staff member entered the building beside the elevator and showed an access pass.,Normal Activity,normal_4
+The water dispenser on the staircase is jammed and cannot be used.,Facility Issue,facility_6
+Several people dashed beside the elevator in the same direction.,Rapid Movement,rapid_3
+A young woman fell in the cafeteria while leaving the hall.,Fall Report,fall_0
+A student reported that the automatic door in the lobby is broken.,Facility Issue,facility_1
+a visitor stood in line in the parking lot and waited patiently.,Normal Activity,normal_1
+A person ran quickly near the entrance while climbing the stairs.,Rapid Movement,rapid_0
+report of a fall: a man went down in the cafeteria while talking on the phone.,Fall Report,fall_7
+The fire exit sign near the reception desk has been flickering since morning.,Facility Issue,facility_3
+A woman was waiting near the reception desk for a colleague.,Normal Activity,normal_6
+A child lost balance while carrying a bag and dropped to the ground on the second floor.,Fall Report,fall_5
+A guard slipped and fell in the lobby.,Fall Report,fall_1
+A woman tripped over the step beside the elevator and hit the ground.,Fall Report,fall_3
+The automatic door at the loading dock is jammed and cannot be used.,Facility Issue,facility_6
+Report of a fall: An elderly man went down in the corridor while climbing the stairs.,Fall Report,fall_7
+A staff member walked calmly in the parking lot while entering the building.,Normal Activity,normal_0
+The ceiling light in the corridor is not working.,Facility Issue,facility_0
+A person sat on a bench near the reception desk reading a newspaper.,Normal Activity,normal_3
+A guard ran quickly on the staircase while carrying a bag.,Rapid Movement,rapid_0
+There is a water leak near the side gate lock beside the elevator.,Facility Issue,facility_2
+An employee hurried at the main gate at high speed while leaving the hall.,Rapid Movement,rapid_4
+A staff member was waiting in the parking lot for a colleague.,Normal Activity,normal_6
+A customer entered the building at the loading dock and showed an access pass.,Normal Activity,normal_4
+A young woman fell near the reception desk while talking on the phone.,Fall Report,fall_0
+A visitor suddenly started running in the parking lot.,Rapid Movement,rapid_5
+Facility alert: water pipe near the reception desk is out of order,Facility Issue,facility_7
+There is a water leak near the water pipe near the entrance.,Facility Issue,facility_2
+A child reported that the ceiling light on the staircase is broken.,Facility Issue,facility_1
+A person hurried near the exit door at high speed while leaving the hall.,Rapid Movement,rapid_4
+An employee tripped over the step on the second floor and hit the ground.,Fall Report,fall_3
+A guard reported that the ceiling light in the parking lot is broken.,Facility Issue,facility_1
+A child reported that the window latch at the main gate is broken.,Facility Issue,facility_1
+A woman walked calmly beside the elevator while climbing the stairs.,Normal Activity,normal_0
+A man slipped and fell in the lobby.,Fall Report,fall_1
+A man entered the building at the main gate and showed an access pass.,Normal Activity,normal_4
+A young woman slipped and fell in the parking lot.,Fall Report,fall_1
+a person tripped over the step near the exit door and hit the ground.,Fall Report,fall_3
+Facility alert: side gate lock near the entrance is out of order.,Facility Issue,facility_7
+The fire exit sign near the exit door is jammed and cannot be used.,Facility Issue,facility_6
+A man was waiting in the cafeteria for a colleague,Normal Activity,normal_6
+A person slipped and fell in the cafeteria.,Fall Report,fall_1
+A child hurried near the exit door at high speed while entering the building.,Rapid Movement,rapid_4
+An elderly man sprinted on the second floor toward the exit.,Rapid Movement,rapid_1
+a person ran quickly at the loading dock while entering the building.,Rapid Movement,rapid_0
+The fire exit sign beside the elevator is not working.,Facility Issue,facility_0
+A guard collapsed on the staircase and was lying on the floor.,Fall Report,fall_2
+A staff member walked calmly in the cafeteria while leaving the hall.,Normal Activity,normal_0
+A visitor slipped and fell in the cafeteria.,Fall Report,fall_1
+A young woman bolted in the corridor without stopping.,Rapid Movement,rapid_6
+A student slipped and fell in the lobby.,Fall Report,fall_1
+There is a water leak near the side gate lock near the reception desk.,Facility Issue,facility_2
+A person sat on a bench in the corridor reading a newspaper.,Normal Activity,normal_3
+A visitor lost balance while walking and dropped to the ground beside the elevator.,Fall Report,fall_5
+A staff member reported that the side gate lock at the loading dock is broken.,Facility Issue,facility_1
+a guard fell near the exit door while carrying a bag.,Fall Report,fall_0
+A student collapsed near the exit door and was lying on the floor.,Fall Report,fall_2
+A student slipped and fell in the parking lot.,Fall Report,fall_1
+A visitor entered the building at the loading dock and showed an access pass.,Normal Activity,normal_4
+A visitor ran quickly in the corridor while talking on the phone.,Rapid Movement,rapid_0
+A child bolted on the second floor without stopping.,Rapid Movement,rapid_6
+A visitor was waiting in the cafeteria for a colleague.,Normal Activity,normal_6
+The access card reader at the loading dock is jammed and cannot be used.,Facility Issue,facility_6
+An elderly man suddenly started running at the loading dock.,Rapid Movement,rapid_5
+A child entered the building near the exit door and showed an access pass.,Normal Activity,normal_4
+"Routine movement observed in the cafeteria, nothing unusual",Normal Activity,normal_5
+there is a water leak near the security camera in the parking lot.,Facility Issue,facility_2
+A man collapsed near the entrance and was lying on the floor.,Fall Report,fall_2
+A student entered the building on the staircase and showed an access pass.,Normal Activity,normal_4
+a student stood in line in the corridor and waited patiently.,Normal Activity,normal_1
+Several people were chatting near the exit door as usual,Normal Activity,normal_2
+A man sat on a bench near the exit door reading a newspaper.,Normal Activity,normal_3
+The security camera on the second floor is jammed and cannot be used.,Facility Issue,facility_6
+Someone was found lying motionless on the floor at the loading dock.,Fall Report,fall_4
+A staff member ran quickly in the lobby while climbing the stairs.,Rapid Movement,rapid_0
+A woman walked calmly at the main gate while leaving the hall.,Normal Activity,normal_0
+"A wet floor warning is needed on the second floor, the access card reader is leaking.",Facility Issue,facility_5
+A visitor stood in line in the lobby and waited patiently.,Normal Activity,normal_1
+The water pipe at the loading dock is not working.,Facility Issue,facility_0
+a child ran quickly in the corridor while carrying a bag.,Rapid Movement,rapid_0
+Several people dashed in the corridor in the same direction.,Rapid Movement,rapid_3
+The corridor lamp in the lobby is jammed and cannot be used.,Facility Issue,facility_6
+A man collapsed near the exit door and was lying on the floor.,Fall Report,fall_2
+There is a water leak near the side gate lock in the corridor.,Facility Issue,facility_2
+A person collapsed at the main gate and was lying on the floor.,Fall Report,fall_2
+A person hurried near the reception desk at high speed while talking on the phone,Rapid Movement,rapid_4
+A visitor tripped over the step on the second floor and hit the ground.,Fall Report,fall_3
+The security camera near the exit door is not working.,Facility Issue,facility_0
+"Routine movement observed at the main gate, nothing unusual.",Normal Activity,normal_5
+A student hurried at the main gate at high speed while leaving the hall.,Rapid Movement,rapid_4
+The water dispenser on the second floor is jammed and cannot be used.,Facility Issue,facility_6
+Report of a fall: A student went down at the loading dock while walking.,Fall Report,fall_7
+A staff member collapsed on the second floor and was lying on the floor.,Fall Report,fall_2
+A staff member bolted on the staircase without stopping.,Rapid Movement,rapid_6
+An employee tripped over the step at the main gate and hit the ground.,Fall Report,fall_3
+A young woman collapsed near the entrance and was lying on the floor.,Fall Report,fall_2
+A woman tripped over the step on the staircase and hit the ground.,Fall Report,fall_3
+"A staff member fell down in the cafeteria, other people rushed to help.",Fall Report,fall_6
+"A wet floor warning is needed beside the elevator, the water dispenser is leaking.",Facility Issue,facility_5
+A man slipped and fell near the entrance.,Fall Report,fall_1
+A man slipped and fell at the loading dock.,Fall Report,fall_1
+A child slipped and fell near the reception desk,Fall Report,fall_1
+A fast movement was noticed in the cafeteria: A young woman was running.,Rapid Movement,rapid_7
+A fast movement was noticed at the main gate: A guard was running.,Rapid Movement,rapid_7
+A man sat on a bench beside the elevator reading a newspaper.,Normal Activity,normal_3
+Facility alert: access card reader on the staircase is out of order.,Facility Issue,facility_7
+An employee suddenly started running in the corridor.,Rapid Movement,rapid_5
+A person suddenly started running near the exit door.,Rapid Movement,rapid_5
+Facility alert: automatic door near the entrance is out of order.,Facility Issue,facility_7
+A customer tripped over the step at the loading dock and hit the ground.,Fall Report,fall_3
+A customer was waiting at the main gate for a colleague.,Normal Activity,normal_6
+A man rushed on the staircase and pushed through the crowd.,Rapid Movement,rapid_2
+A guard collapsed in the parking lot and was lying on the floor.,Fall Report,fall_2
+A customer was waiting in the cafeteria for a colleague.,Normal Activity,normal_6
+The elevator near the reception desk has been flickering since morning.,Facility Issue,facility_3
+Facility alert: water dispenser beside the elevator is out of order.,Facility Issue,facility_7
+A customer walked slowly at the main gate while climbing the stairs and left the area.,Normal Activity,normal_7
+"The automatic door beside the elevator needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+Facility alert: security camera on the staircase is out of order.,Facility Issue,facility_7
+A child walked slowly in the parking lot while turning a corner and left the area.,Normal Activity,normal_7
+A child entered the building in the lobby and showed an access pass.,Normal Activity,normal_4
+Someone was found lying motionless on the floor near the entrance.,Fall Report,fall_4
+A child rushed in the corridor and pushed through the crowd.,Rapid Movement,rapid_2
+Several people dashed on the second floor in the same direction.,Rapid Movement,rapid_3
+A staff member tripped over the step at the main gate and hit the ground.,Fall Report,fall_3
+A student rushed at the main gate and pushed through the crowd.,Rapid Movement,rapid_2
+A woman walked calmly at the loading dock while turning a corner.,Normal Activity,normal_0
+A young woman hurried at the loading dock at high speed while talking on the phone.,Rapid Movement,rapid_4
+"A woman fell down at the loading dock, other people rushed to help.",Fall Report,fall_6
+Report of a fall: A woman went down at the main gate while leaving the hall.,Fall Report,fall_7
+A staff member rushed near the entrance and pushed through the crowd.,Rapid Movement,rapid_2
+A woman was waiting at the main gate for a colleague.,Normal Activity,normal_6
+A fast movement was noticed on the staircase: A customer was running.,Rapid Movement,rapid_7
+The automatic door on the second floor has been flickering since morning.,Facility Issue,facility_3
+A man sat on a bench in the lobby reading a newspaper.,Normal Activity,normal_3
+The ceiling light near the exit door is jammed and cannot be used.,Facility Issue,facility_6
+A young woman sat on a bench near the reception desk reading a newspaper.,Normal Activity,normal_3
+a child rushed at the loading dock and pushed through the crowd.,Rapid Movement,rapid_2
+The air conditioner in the cafeteria is not working.,Facility Issue,facility_0
+A visitor ran quickly on the second floor while walking.,Rapid Movement,rapid_0
+the security camera near the reception desk is not working.,Facility Issue,facility_0
+A guard ran quickly on the staircase while talking on the phone.,Rapid Movement,rapid_0
+The water pipe in the cafeteria is jammed and cannot be used.,Facility Issue,facility_6
+A fast movement was noticed on the second floor: A person was running.,Rapid Movement,rapid_7
+An elderly man stood in line at the main gate and waited patiently.,Normal Activity,normal_1
+A visitor walked slowly in the lobby while turning a corner and left the area.,Normal Activity,normal_7
+A customer tripped over the step in the corridor and hit the ground.,Fall Report,fall_3
+A man ran quickly near the exit door while leaving the hall.,Rapid Movement,rapid_0
+A staff member fell in the parking lot while leaving the hall.,Fall Report,fall_0
+The fire exit sign on the staircase is jammed and cannot be used.,Facility Issue,facility_6
+A student tripped over the step in the parking lot and hit the ground.,Fall Report,fall_3
+A man fell at the loading dock while entering the building.,Fall Report,fall_0
+A young woman was waiting in the lobby for a colleague.,Normal Activity,normal_6
+A customer tripped over the step in the parking lot and hit the ground.,Fall Report,fall_3
+A child sat on a bench near the reception desk reading a newspaper.,Normal Activity,normal_3
+An employee reported that the air conditioner in the lobby is broken.,Facility Issue,facility_1
+There is a water leak near the access card reader at the loading dock.,Facility Issue,facility_2
+A guard suddenly started running at the main gate,Rapid Movement,rapid_5
+A customer was waiting near the entrance for a colleague.,Normal Activity,normal_6
+A student slipped and fell on the staircase,Fall Report,fall_1
+The access card reader in the lobby is jammed and cannot be used.,Facility Issue,facility_6
+An employee rushed near the entrance and pushed through the crowd.,Rapid Movement,rapid_2
+A student hurried near the reception desk at high speed while waiting in line.,Rapid Movement,rapid_4
+A staff member walked calmly in the parking lot while climbing the stairs.,Normal Activity,normal_0
+a child entered the building in the parking lot and showed an access pass.,Normal Activity,normal_4
+an elderly man lost balance while waiting in line and dropped to the ground near the reception desk.,Fall Report,fall_5
+A fast movement was noticed near the reception desk: A visitor was running.,Rapid Movement,rapid_7
+"A child fell down in the corridor, other people rushed to help.",Fall Report,fall_6
+A person walked slowly beside the elevator while carrying a bag and left the area.,Normal Activity,normal_7
+An employee ran quickly in the cafeteria while carrying a bag.,Rapid Movement,rapid_0
+The security camera in the lobby is jammed and cannot be used.,Facility Issue,facility_6
+There is a water leak near the water pipe beside the elevator.,Facility Issue,facility_2
+A student walked slowly at the loading dock while turning a corner and left the area.,Normal Activity,normal_7
+A woman walked calmly at the main gate while turning a corner.,Normal Activity,normal_0
+A visitor walked calmly at the main gate while entering the building.,Normal Activity,normal_0
+"A student fell down at the main gate, other people rushed to help",Fall Report,fall_6
+A guard collapsed at the main gate and was lying on the floor.,Fall Report,fall_2
+A man rushed in the cafeteria and pushed through the crowd.,Rapid Movement,rapid_2
+A woman collapsed in the parking lot and was lying on the floor.,Fall Report,fall_2
+A student sat on a bench near the entrance reading a newspaper.,Normal Activity,normal_3
+"A wet floor warning is needed near the entrance, the corridor lamp is leaking.",Facility Issue,facility_5
+A fast movement was noticed at the main gate: An employee was running.,Rapid Movement,rapid_7
+"The automatic door at the main gate needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+"A wet floor warning is needed in the cafeteria, the air conditioner is leaking.",Facility Issue,facility_5
+A woman ran quickly beside the elevator while waiting in line.,Rapid Movement,rapid_0
+"An elderly man fell down at the loading dock, other people rushed to help.",Fall Report,fall_6
+A fast movement was noticed beside the elevator: An elderly man was running.,Rapid Movement,rapid_7
+Report of a fall: A young woman went down in the lobby while climbing the stairs.,Fall Report,fall_7
+Report of a fall: An elderly man went down on the second floor while carrying a bag,Fall Report,fall_7
+A customer fell near the entrance while walking.,Fall Report,fall_0
+The automatic door on the staircase is jammed and cannot be used,Facility Issue,facility_6
+Facility alert: air conditioner at the loading dock is out of order.,Facility Issue,facility_7
+A staff member sprinted beside the elevator toward the exit.,Rapid Movement,rapid_1
+An elderly man ran quickly on the staircase while walking.,Rapid Movement,rapid_0
+There is a water leak near the water dispenser beside the elevator.,Facility Issue,facility_2
+An employee fell on the staircase while talking on the phone.,Fall Report,fall_0
+"A wet floor warning is needed in the lobby, the side gate lock is leaking.",Facility Issue,facility_5
+A child bolted near the reception desk without stopping.,Rapid Movement,rapid_6
+The side gate lock beside the elevator is not working.,Facility Issue,facility_0
+A fast movement was noticed in the parking lot: A young woman was running.,Rapid Movement,rapid_7
+"The water dispenser beside the elevator needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A child sprinted near the entrance toward the exit.,Rapid Movement,rapid_1
+An elderly man fell near the entrance while turning a corner.,Fall Report,fall_0
+A staff member rushed near the reception desk and pushed through the crowd.,Rapid Movement,rapid_2
+The corridor lamp in the corridor is not working.,Facility Issue,facility_0
+Report of a fall: A woman went down in the cafeteria while turning a corner.,Fall Report,fall_7
+"The ceiling light on the second floor needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+a young woman stood in line in the parking lot and waited patiently.,Normal Activity,normal_1
+A woman walked calmly in the cafeteria while talking on the phone.,Normal Activity,normal_0
+A person lost balance while climbing the stairs and dropped to the ground on the staircase.,Fall Report,fall_5
+A man sat on a bench at the main gate reading a newspaper.,Normal Activity,normal_3
+A visitor sat on a bench at the main gate reading a newspaper.,Normal Activity,normal_3
+A young woman entered the building in the corridor and showed an access pass.,Normal Activity,normal_4
+A guard stood in line in the parking lot and waited patiently.,Normal Activity,normal_1
+A guard ran quickly beside the elevator while entering the building.,Rapid Movement,rapid_0
+"A wet floor warning is needed on the second floor, the ceiling light is leaking.",Facility Issue,facility_5
+a child sprinted in the lobby toward the exit.,Rapid Movement,rapid_1
+A visitor walked slowly near the exit door while climbing the stairs and left the area.,Normal Activity,normal_7
+A woman sat on a bench in the corridor reading a newspaper.,Normal Activity,normal_3
+A staff member rushed in the lobby and pushed through the crowd.,Rapid Movement,rapid_2
+A person sprinted in the lobby toward the exit.,Rapid Movement,rapid_1
+A guard sat on a bench on the second floor reading a newspaper.,Normal Activity,normal_3
+Facility alert: fire exit sign on the second floor is out of order.,Facility Issue,facility_7
+An employee entered the building at the main gate and showed an access pass.,Normal Activity,normal_4
+There is a water leak near the window latch in the parking lot.,Facility Issue,facility_2
+A customer walked slowly near the exit door while talking on the phone and left the area.,Normal Activity,normal_7
+A man reported that the side gate lock at the main gate is broken.,Facility Issue,facility_1
+A person slipped and fell near the reception desk.,Fall Report,fall_1
+A woman rushed in the corridor and pushed through the crowd.,Rapid Movement,rapid_2
+A customer slipped and fell in the cafeteria.,Fall Report,fall_1
+A person rushed near the exit door and pushed through the crowd.,Rapid Movement,rapid_2
+A visitor sat on a bench on the second floor reading a newspaper.,Normal Activity,normal_3
+A woman bolted on the second floor without stopping.,Rapid Movement,rapid_6
+A young woman ran quickly near the entrance while entering the building.,Rapid Movement,rapid_0
+A person bolted in the parking lot without stopping.,Rapid Movement,rapid_6
+the water pipe near the entrance has been flickering since morning.,Facility Issue,facility_3
+a person fell in the corridor while climbing the stairs.,Fall Report,fall_0
+a fast movement was noticed near the exit door: a young woman was running.,Rapid Movement,rapid_7
+Report of a fall: A man went down on the staircase while carrying a bag.,Fall Report,fall_7
+A guard slipped and fell beside the elevator.,Fall Report,fall_1
+A man walked slowly at the loading dock while talking on the phone and left the area.,Normal Activity,normal_7
+The elevator near the exit door is jammed and cannot be used.,Facility Issue,facility_6
+a young woman ran quickly at the main gate while carrying a bag.,Rapid Movement,rapid_0
+A staff member bolted beside the elevator without stopping.,Rapid Movement,rapid_6
+There is a water leak near the air conditioner in the parking lot.,Facility Issue,facility_2
+A woman rushed at the loading dock and pushed through the crowd.,Rapid Movement,rapid_2
+Report of a fall: A person went down near the exit door while talking on the phone.,Fall Report,fall_7
+A customer was waiting at the loading dock for a colleague.,Normal Activity,normal_6
+A customer fell in the corridor while walking.,Fall Report,fall_0
+A guard hurried near the reception desk at high speed while entering the building.,Rapid Movement,rapid_4
+a guard collapsed in the lobby and was lying on the floor.,Fall Report,fall_2
+A student collapsed in the parking lot and was lying on the floor,Fall Report,fall_2
+A guard walked slowly in the cafeteria while turning a corner and left the area.,Normal Activity,normal_7
+The corridor lamp at the main gate is not working.,Facility Issue,facility_0
+A guard walked slowly in the cafeteria while waiting in line and left the area.,Normal Activity,normal_7
+"A man fell down near the reception desk, other people rushed to help.",Fall Report,fall_6
+A child rushed near the reception desk and pushed through the crowd.,Rapid Movement,rapid_2
+A student walked calmly on the staircase while talking on the phone.,Normal Activity,normal_0
+a child was waiting at the main gate for a colleague.,Normal Activity,normal_6
+A person rushed at the loading dock and pushed through the crowd,Rapid Movement,rapid_2
+A person suddenly started running in the cafeteria.,Rapid Movement,rapid_5
+A customer slipped and fell near the entrance,Fall Report,fall_1
+"A wet floor warning is needed in the lobby, the water dispenser is leaking.",Facility Issue,facility_5
+A woman lost balance while turning a corner and dropped to the ground on the staircase.,Fall Report,fall_5
+A staff member entered the building near the exit door and showed an access pass.,Normal Activity,normal_4
+A child fell at the loading dock while entering the building.,Fall Report,fall_0
+Report of a fall: A child went down in the lobby while entering the building.,Fall Report,fall_7
+"a wet floor warning is needed on the staircase, the automatic door is leaking.",Facility Issue,facility_5
+"A wet floor warning is needed in the corridor, the corridor lamp is leaking.",Facility Issue,facility_5
+A customer walked slowly in the corridor while entering the building and left the area.,Normal Activity,normal_7
+A woman slipped and fell in the parking lot.,Fall Report,fall_1
+Report of a fall: A visitor went down near the exit door while climbing the stairs.,Fall Report,fall_7
+Facility alert: water dispenser in the parking lot is out of order.,Facility Issue,facility_7
+A woman was waiting near the entrance for a colleague.,Normal Activity,normal_6
+A visitor bolted at the loading dock without stopping.,Rapid Movement,rapid_6
+The water dispenser in the corridor is not working.,Facility Issue,facility_0
+Report of a fall: A customer went down in the cafeteria while walking.,Fall Report,fall_7
+a customer suddenly started running at the main gate.,Rapid Movement,rapid_5
+The security camera on the staircase is jammed and cannot be used.,Facility Issue,facility_6
+Report of a fall: A man went down at the main gate while entering the building.,Fall Report,fall_7
+A child tripped over the step at the main gate and hit the ground.,Fall Report,fall_3
+A fast movement was noticed at the loading dock: A guard was running.,Rapid Movement,rapid_7
+the side gate lock near the entrance is jammed and cannot be used.,Facility Issue,facility_6
+A student ran quickly in the parking lot while turning a corner.,Rapid Movement,rapid_0
+The access card reader near the entrance has been flickering since morning.,Facility Issue,facility_3
+An employee fell at the main gate while talking on the phone.,Fall Report,fall_0
+A fast movement was noticed at the main gate: An elderly man was running.,Rapid Movement,rapid_7
+A young woman walked slowly in the corridor while entering the building and left the area.,Normal Activity,normal_7
+A customer entered the building near the entrance and showed an access pass.,Normal Activity,normal_4
+Facility alert: corridor lamp on the staircase is out of order.,Facility Issue,facility_7
+"A wet floor warning is needed in the corridor, the ceiling light is leaking.",Facility Issue,facility_5
+An elderly man ran quickly beside the elevator while climbing the stairs.,Rapid Movement,rapid_0
+A customer lost balance while turning a corner and dropped to the ground at the loading dock.,Fall Report,fall_5
+There is a water leak near the elevator near the exit door.,Facility Issue,facility_2
+A student reported that the water pipe in the lobby is broken,Facility Issue,facility_1
+There is a water leak near the water dispenser on the second floor,Facility Issue,facility_2
+A child sat on a bench on the second floor reading a newspaper.,Normal Activity,normal_3
+A student slipped and fell near the reception desk.,Fall Report,fall_1
+A woman tripped over the step in the corridor and hit the ground,Fall Report,fall_3
+The side gate lock at the main gate has been flickering since morning.,Facility Issue,facility_3
+a student suddenly started running at the loading dock.,Rapid Movement,rapid_5
+There is a water leak near the ceiling light at the loading dock.,Facility Issue,facility_2
+A young woman walked slowly in the parking lot while carrying a bag and left the area.,Normal Activity,normal_7
+A fast movement was noticed at the main gate: A child was running.,Rapid Movement,rapid_7
+A child ran quickly near the reception desk while turning a corner.,Rapid Movement,rapid_0
+A staff member hurried beside the elevator at high speed while entering the building,Rapid Movement,rapid_4
+"The air conditioner on the second floor needs maintenance, it is making a loud noise",Facility Issue,facility_4
+"An employee fell down beside the elevator, other people rushed to help.",Fall Report,fall_6
+A staff member walked slowly at the loading dock while entering the building and left the area.,Normal Activity,normal_7
+The access card reader at the loading dock is not working.,Facility Issue,facility_0
+An employee hurried at the loading dock at high speed while turning a corner,Rapid Movement,rapid_4
+A student walked calmly at the loading dock while climbing the stairs.,Normal Activity,normal_0
+Report of a fall: A visitor went down near the exit door while entering the building.,Fall Report,fall_7
+A student ran quickly on the staircase while climbing the stairs.,Rapid Movement,rapid_0
+"a guard fell down near the exit door, other people rushed to help.",Fall Report,fall_6
+A man walked slowly in the cafeteria while carrying a bag and left the area.,Normal Activity,normal_7
+Report of a fall: A man went down in the parking lot while talking on the phone.,Fall Report,fall_7
+"The water pipe near the reception desk needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A visitor sat on a bench near the reception desk reading a newspaper.,Normal Activity,normal_3
+A child suddenly started running at the loading dock.,Rapid Movement,rapid_5
+An employee stood in line in the parking lot and waited patiently.,Normal Activity,normal_1
+A customer hurried near the entrance at high speed while climbing the stairs.,Rapid Movement,rapid_4
+Report of a fall: A student went down on the second floor while turning a corner.,Fall Report,fall_7
+The water dispenser at the main gate is not working.,Facility Issue,facility_0
+"A wet floor warning is needed on the staircase, the security camera is leaking.",Facility Issue,facility_5
+An employee lost balance while carrying a bag and dropped to the ground on the staircase.,Fall Report,fall_5
+Facility alert: water dispenser at the main gate is out of order.,Facility Issue,facility_7
+There is a water leak near the water pipe at the loading dock.,Facility Issue,facility_2
+A woman collapsed in the cafeteria and was lying on the floor.,Fall Report,fall_2
+The corridor lamp near the entrance is jammed and cannot be used.,Facility Issue,facility_6
+someone was found lying motionless on the floor in the parking lot.,Fall Report,fall_4
+"a guard fell down in the corridor, other people rushed to help.",Fall Report,fall_6
+An employee walked calmly in the corridor while waiting in line.,Normal Activity,normal_0
+A customer hurried in the parking lot at high speed while leaving the hall.,Rapid Movement,rapid_4
+A man hurried near the reception desk at high speed while climbing the stairs.,Rapid Movement,rapid_4
+Facility alert: fire exit sign in the lobby is out of order.,Facility Issue,facility_7
+A young woman tripped over the step in the parking lot and hit the ground.,Fall Report,fall_3
+The ceiling light at the loading dock is jammed and cannot be used.,Facility Issue,facility_6
+There is a water leak near the automatic door at the main gate.,Facility Issue,facility_2
+A child fell in the corridor while entering the building.,Fall Report,fall_0
+An employee slipped and fell in the cafeteria.,Fall Report,fall_1
+a man collapsed on the second floor and was lying on the floor.,Fall Report,fall_2
+An elderly man slipped and fell near the reception desk.,Fall Report,fall_1
+A staff member slipped and fell near the reception desk.,Fall Report,fall_1
+A visitor hurried near the exit door at high speed while turning a corner.,Rapid Movement,rapid_4
+A child ran quickly near the entrance while entering the building.,Rapid Movement,rapid_0
+Facility alert: air conditioner near the entrance is out of order.,Facility Issue,facility_7
+A staff member walked slowly in the cafeteria while leaving the hall and left the area.,Normal Activity,normal_7
+A guard walked slowly at the loading dock while entering the building and left the area.,Normal Activity,normal_7
+"The fire exit sign in the cafeteria needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A student bolted at the loading dock without stopping.,Rapid Movement,rapid_6
+An elderly man hurried near the entrance at high speed while walking.,Rapid Movement,rapid_4
+A customer collapsed near the exit door and was lying on the floor.,Fall Report,fall_2
+There is a water leak near the ceiling light near the reception desk.,Facility Issue,facility_2
+a young woman walked calmly near the exit door while entering the building.,Normal Activity,normal_0
+The automatic door beside the elevator is not working.,Facility Issue,facility_0
+a customer slipped and fell at the loading dock.,Fall Report,fall_1
+A visitor sprinted near the reception desk toward the exit.,Rapid Movement,rapid_1
+A guard tripped over the step beside the elevator and hit the ground.,Fall Report,fall_3
+Report of a fall: A visitor went down near the entrance while climbing the stairs.,Fall Report,fall_7
+A man fell beside the elevator while entering the building,Fall Report,fall_0
+A woman sprinted in the lobby toward the exit.,Rapid Movement,rapid_1
+An employee slipped and fell in the parking lot.,Fall Report,fall_1
+A man reported that the automatic door in the parking lot is broken.,Facility Issue,facility_1
+Report of a fall: A student went down in the corridor while carrying a bag.,Fall Report,fall_7
+A staff member suddenly started running at the loading dock.,Rapid Movement,rapid_5
+"A woman fell down in the corridor, other people rushed to help.",Fall Report,fall_6
+An elderly man bolted near the reception desk without stopping.,Rapid Movement,rapid_6
+A man ran quickly on the staircase while walking.,Rapid Movement,rapid_0
+A fast movement was noticed beside the elevator: A child was running.,Rapid Movement,rapid_7
+A man stood in line on the staircase and waited patiently.,Normal Activity,normal_1
+A visitor sat on a bench in the corridor reading a newspaper.,Normal Activity,normal_3
+A customer walked calmly in the cafeteria while leaving the hall.,Normal Activity,normal_0
+An employee walked calmly in the lobby while waiting in line.,Normal Activity,normal_0
+"A child fell down at the main gate, other people rushed to help.",Fall Report,fall_6
+the air conditioner near the reception desk has been flickering since morning.,Facility Issue,facility_3
+A visitor suddenly started running beside the elevator.,Rapid Movement,rapid_5
+An elderly man walked slowly at the loading dock while carrying a bag and left the area.,Normal Activity,normal_7
+"A wet floor warning is needed beside the elevator, the access card reader is leaking.",Facility Issue,facility_5
+A young woman suddenly started running at the loading dock.,Rapid Movement,rapid_5
+A man entered the building in the cafeteria and showed an access pass.,Normal Activity,normal_4
+A customer collapsed in the corridor and was lying on the floor.,Fall Report,fall_2
+A child suddenly started running near the reception desk.,Rapid Movement,rapid_5
+A man bolted on the second floor without stopping.,Rapid Movement,rapid_6
+An employee collapsed in the cafeteria and was lying on the floor.,Fall Report,fall_2
+A woman suddenly started running at the main gate.,Rapid Movement,rapid_5
+The fire exit sign near the entrance has been flickering since morning.,Facility Issue,facility_3
+A young woman hurried at the main gate at high speed while climbing the stairs.,Rapid Movement,rapid_4
+a customer bolted in the cafeteria without stopping.,Rapid Movement,rapid_6
+"The ceiling light at the main gate needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A young woman stood in line near the entrance and waited patiently.,Normal Activity,normal_1
+A person hurried in the lobby at high speed while climbing the stairs.,Rapid Movement,rapid_4
+An elderly man collapsed on the staircase and was lying on the floor.,Fall Report,fall_2
+A student ran quickly in the corridor while talking on the phone.,Rapid Movement,rapid_0
+Someone was found lying motionless on the floor on the staircase.,Fall Report,fall_4
+Report of a fall: A person went down in the parking lot while leaving the hall.,Fall Report,fall_7
+There is a water leak near the corridor lamp at the main gate.,Facility Issue,facility_2
+The side gate lock at the loading dock is not working.,Facility Issue,facility_0
+A fast movement was noticed on the second floor: An employee was running.,Rapid Movement,rapid_7
+A student sprinted on the second floor toward the exit.,Rapid Movement,rapid_1
+Report of a fall: An employee went down in the parking lot while turning a corner.,Fall Report,fall_7
+an elderly man rushed beside the elevator and pushed through the crowd.,Rapid Movement,rapid_2
+A visitor suddenly started running in the corridor.,Rapid Movement,rapid_5
+The security camera beside the elevator is not working.,Facility Issue,facility_0
+There is a water leak near the side gate lock at the loading dock.,Facility Issue,facility_2
+A person bolted at the main gate without stopping.,Rapid Movement,rapid_6
+Several people were chatting in the parking lot as usual.,Normal Activity,normal_2
+Facility alert: side gate lock on the staircase is out of order.,Facility Issue,facility_7
+"A wet floor warning is needed in the lobby, the ceiling light is leaking.",Facility Issue,facility_5
+The security camera in the corridor has been flickering since morning.,Facility Issue,facility_3
+A child entered the building in the corridor and showed an access pass.,Normal Activity,normal_4
+Several people were chatting in the corridor as usual.,Normal Activity,normal_2
+An employee ran quickly in the parking lot while climbing the stairs.,Rapid Movement,rapid_0
+a young woman reported that the security camera in the corridor is broken.,Facility Issue,facility_1
+A person collapsed in the corridor and was lying on the floor.,Fall Report,fall_2
+A woman stood in line on the staircase and waited patiently.,Normal Activity,normal_1
+A staff member walked calmly near the reception desk while talking on the phone.,Normal Activity,normal_0
+An employee was waiting beside the elevator for a colleague.,Normal Activity,normal_6
+A person fell near the exit door while climbing the stairs.,Fall Report,fall_0
+The water dispenser in the parking lot is not working.,Facility Issue,facility_0
+An elderly man suddenly started running near the reception desk.,Rapid Movement,rapid_5
+A person walked calmly near the reception desk while leaving the hall.,Normal Activity,normal_0
+The security camera at the loading dock is not working.,Facility Issue,facility_0
+A child rushed on the second floor and pushed through the crowd,Rapid Movement,rapid_2
+"A visitor fell down in the parking lot, other people rushed to help.",Fall Report,fall_6
+facility alert: water pipe in the cafeteria is out of order.,Facility Issue,facility_7
+"A wet floor warning is needed beside the elevator, the corridor lamp is leaking",Facility Issue,facility_5
+A young woman rushed beside the elevator and pushed through the crowd.,Rapid Movement,rapid_2
+A young woman walked calmly near the exit door while waiting in line.,Normal Activity,normal_0
+An elderly man was waiting at the loading dock for a colleague.,Normal Activity,normal_6
+A man bolted beside the elevator without stopping.,Rapid Movement,rapid_6
+A visitor walked calmly in the cafeteria while talking on the phone.,Normal Activity,normal_0
+A student was waiting in the corridor for a colleague.,Normal Activity,normal_6
+A child lost balance while turning a corner and dropped to the ground on the second floor.,Fall Report,fall_5
+"A man fell down on the staircase, other people rushed to help.",Fall Report,fall_6
+"A customer fell down beside the elevator, other people rushed to help.",Fall Report,fall_6
+A visitor sat on a bench on the staircase reading a newspaper.,Normal Activity,normal_3
+"The window latch in the cafeteria needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A student stood in line beside the elevator and waited patiently.,Normal Activity,normal_1
+A child collapsed in the corridor and was lying on the floor.,Fall Report,fall_2
+the fire exit sign on the staircase is not working.,Facility Issue,facility_0
+There is a water leak near the access card reader in the lobby.,Facility Issue,facility_2
+A guard stood in line at the loading dock and waited patiently.,Normal Activity,normal_1
+A young woman tripped over the step at the loading dock and hit the ground.,Fall Report,fall_3
+A staff member walked slowly on the staircase while walking and left the area.,Normal Activity,normal_7
+The side gate lock on the staircase is not working.,Facility Issue,facility_0
+Report of a fall: A child went down on the second floor while turning a corner.,Fall Report,fall_7
+There is a water leak near the elevator at the main gate.,Facility Issue,facility_2
+The water pipe on the staircase is jammed and cannot be used.,Facility Issue,facility_6
+A child ran quickly in the lobby while climbing the stairs.,Rapid Movement,rapid_0
+An employee was waiting near the exit door for a colleague.,Normal Activity,normal_6
+A man sat on a bench near the reception desk reading a newspaper.,Normal Activity,normal_3
+A person fell near the reception desk while walking.,Fall Report,fall_0
+A visitor walked calmly in the lobby while talking on the phone.,Normal Activity,normal_0
+A visitor rushed at the loading dock and pushed through the crowd.,Rapid Movement,rapid_2
+A fast movement was noticed at the main gate: A customer was running.,Rapid Movement,rapid_7
+A staff member fell on the second floor while turning a corner.,Fall Report,fall_0
+An employee rushed at the loading dock and pushed through the crowd.,Rapid Movement,rapid_2
+A student walked calmly on the second floor while waiting in line.,Normal Activity,normal_0
+A child suddenly started running in the corridor.,Rapid Movement,rapid_5
+The automatic door in the corridor is not working.,Facility Issue,facility_0
+"The access card reader near the entrance needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+Report of a fall: A woman went down near the exit door while waiting in line.,Fall Report,fall_7
+The air conditioner on the staircase is not working.,Facility Issue,facility_0
+A customer bolted on the staircase without stopping.,Rapid Movement,rapid_6
+A customer entered the building on the staircase and showed an access pass.,Normal Activity,normal_4
+A person suddenly started running at the loading dock,Rapid Movement,rapid_5
+"A woman fell down in the lobby, other people rushed to help.",Fall Report,fall_6
+A student lost balance while climbing the stairs and dropped to the ground beside the elevator.,Fall Report,fall_5
+A woman fell at the main gate while leaving the hall.,Fall Report,fall_0
+A guard bolted near the exit door without stopping.,Rapid Movement,rapid_6
+A staff member suddenly started running near the entrance.,Rapid Movement,rapid_5
+a student stood in line in the parking lot and waited patiently.,Normal Activity,normal_1
+A fast movement was noticed in the corridor: A child was running.,Rapid Movement,rapid_7
+A guard rushed on the second floor and pushed through the crowd.,Rapid Movement,rapid_2
+an employee reported that the water pipe at the main gate is broken.,Facility Issue,facility_1
+a student ran quickly in the parking lot while climbing the stairs.,Rapid Movement,rapid_0
+A person sprinted on the second floor toward the exit.,Rapid Movement,rapid_1
+An employee rushed near the reception desk and pushed through the crowd.,Rapid Movement,rapid_2
+A guard bolted at the loading dock without stopping,Rapid Movement,rapid_6
+"A wet floor warning is needed in the corridor, the automatic door is leaking.",Facility Issue,facility_5
+An elderly man collapsed in the lobby and was lying on the floor.,Fall Report,fall_2
+A woman lost balance while climbing the stairs and dropped to the ground on the staircase.,Fall Report,fall_5
+A child reported that the air conditioner at the loading dock is broken.,Facility Issue,facility_1
+The corridor lamp near the exit door is not working.,Facility Issue,facility_0
+A woman sprinted on the second floor toward the exit.,Rapid Movement,rapid_1
+A student sat on a bench in the cafeteria reading a newspaper.,Normal Activity,normal_3
+A person tripped over the step in the parking lot and hit the ground.,Fall Report,fall_3
+A customer collapsed on the staircase and was lying on the floor.,Fall Report,fall_2
+an elderly man suddenly started running in the parking lot.,Rapid Movement,rapid_5
+"A wet floor warning is needed in the lobby, the air conditioner is leaking.",Facility Issue,facility_5
+an elderly man sprinted in the lobby toward the exit.,Rapid Movement,rapid_1
+the ceiling light in the cafeteria has been flickering since morning.,Facility Issue,facility_3
+A guard walked slowly near the reception desk while entering the building and left the area.,Normal Activity,normal_7
+A fast movement was noticed near the reception desk: A guard was running.,Rapid Movement,rapid_7
+An employee bolted near the exit door without stopping.,Rapid Movement,rapid_6
+a young woman fell near the reception desk while waiting in line.,Fall Report,fall_0
+An elderly man was waiting in the cafeteria for a colleague.,Normal Activity,normal_6
+A person hurried near the reception desk at high speed while walking.,Rapid Movement,rapid_4
+A child lost balance while entering the building and dropped to the ground on the second floor.,Fall Report,fall_5
+there is a water leak near the corridor lamp in the cafeteria.,Facility Issue,facility_2
+A fast movement was noticed in the cafeteria: A student was running.,Rapid Movement,rapid_7
+There is a water leak near the water pipe on the staircase.,Facility Issue,facility_2
+"An employee fell down near the reception desk, other people rushed to help.",Fall Report,fall_6
+The air conditioner near the exit door is jammed and cannot be used.,Facility Issue,facility_6
+"The security camera in the parking lot needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+The window latch on the second floor is not working.,Facility Issue,facility_0
+A man ran quickly in the corridor while talking on the phone.,Rapid Movement,rapid_0
+Someone was found lying motionless on the floor at the main gate.,Fall Report,fall_4
+A staff member hurried beside the elevator at high speed while waiting in line.,Rapid Movement,rapid_4
+Several people dashed in the parking lot in the same direction.,Rapid Movement,rapid_3
+The access card reader beside the elevator is not working.,Facility Issue,facility_0
+A student rushed on the second floor and pushed through the crowd.,Rapid Movement,rapid_2
+"A wet floor warning is needed near the entrance, the water pipe is leaking.",Facility Issue,facility_5
+A guard was waiting in the corridor for a colleague.,Normal Activity,normal_6
+A woman walked slowly near the reception desk while leaving the hall and left the area.,Normal Activity,normal_7
+A woman fell at the main gate while turning a corner.,Fall Report,fall_0
+"A man fell down in the cafeteria, other people rushed to help.",Fall Report,fall_6
+A guard entered the building in the lobby and showed an access pass.,Normal Activity,normal_4
+An employee walked calmly in the cafeteria while walking.,Normal Activity,normal_0
+An employee lost balance while entering the building and dropped to the ground beside the elevator.,Fall Report,fall_5
+A fast movement was noticed in the parking lot: A woman was running.,Rapid Movement,rapid_7
+A woman reported that the automatic door near the reception desk is broken.,Facility Issue,facility_1
+facility alert: corridor lamp in the parking lot is out of order.,Facility Issue,facility_7
+"the elevator beside the elevator needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+Someone was found lying motionless on the floor on the second floor.,Fall Report,fall_4
+A woman reported that the elevator in the parking lot is broken.,Facility Issue,facility_1
+Facility alert: water dispenser at the loading dock is out of order.,Facility Issue,facility_7
+The security camera near the exit door has been flickering since morning.,Facility Issue,facility_3
+"The elevator at the loading dock needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A man sprinted on the second floor toward the exit.,Rapid Movement,rapid_1
+the air conditioner in the parking lot has been flickering since morning.,Facility Issue,facility_3
+The window latch in the parking lot is not working.,Facility Issue,facility_0
+A person entered the building near the entrance and showed an access pass.,Normal Activity,normal_4
+A guard sat on a bench at the loading dock reading a newspaper.,Normal Activity,normal_3
+The window latch in the lobby has been flickering since morning.,Facility Issue,facility_3
+An elderly man stood in line near the exit door and waited patiently.,Normal Activity,normal_1
+A student lost balance while leaving the hall and dropped to the ground in the cafeteria.,Fall Report,fall_5
+"A wet floor warning is needed in the cafeteria, the elevator is leaking.",Facility Issue,facility_5
+A visitor sprinted in the corridor toward the exit.,Rapid Movement,rapid_1
+"A young woman fell down near the entrance, other people rushed to help.",Fall Report,fall_6
+A young woman walked slowly at the main gate while turning a corner and left the area.,Normal Activity,normal_7
+A man was waiting in the corridor for a colleague.,Normal Activity,normal_6
+A man entered the building in the parking lot and showed an access pass.,Normal Activity,normal_4
+A child sat on a bench at the loading dock reading a newspaper.,Normal Activity,normal_3
+"A customer fell down on the staircase, other people rushed to help.",Fall Report,fall_6
+A person sprinted near the exit door toward the exit.,Rapid Movement,rapid_1
+"A woman fell down in the parking lot, other people rushed to help.",Fall Report,fall_6
+Report of a fall: A visitor went down in the corridor while leaving the hall.,Fall Report,fall_7
+A staff member entered the building in the lobby and showed an access pass.,Normal Activity,normal_4
+A student bolted near the exit door without stopping.,Rapid Movement,rapid_6
+A student walked slowly on the staircase while carrying a bag and left the area.,Normal Activity,normal_7
+A young woman entered the building near the reception desk and showed an access pass.,Normal Activity,normal_4
+Facility alert: fire exit sign near the reception desk is out of order.,Facility Issue,facility_7
+An employee sat on a bench at the loading dock reading a newspaper.,Normal Activity,normal_3
+The water pipe in the cafeteria has been flickering since morning.,Facility Issue,facility_3
+A customer tripped over the step near the entrance and hit the ground.,Fall Report,fall_3
+A staff member tripped over the step in the lobby and hit the ground.,Fall Report,fall_3
+A visitor reported that the air conditioner near the exit door is broken.,Facility Issue,facility_1
+Facility alert: corridor lamp in the lobby is out of order.,Facility Issue,facility_7
+An elderly man collapsed at the loading dock and was lying on the floor.,Fall Report,fall_2
+The side gate lock in the corridor has been flickering since morning.,Facility Issue,facility_3
+report of a fall: a young woman went down at the loading dock while carrying a bag.,Fall Report,fall_7
+A child stood in line near the reception desk and waited patiently.,Normal Activity,normal_1
+A staff member walked calmly near the reception desk while walking.,Normal Activity,normal_0
+There is a water leak near the water dispenser in the cafeteria,Facility Issue,facility_2
+A guard walked calmly beside the elevator while leaving the hall.,Normal Activity,normal_0
+There is a water leak near the air conditioner near the reception desk.,Facility Issue,facility_2
+A young woman reported that the fire exit sign at the main gate is broken.,Facility Issue,facility_1
+A staff member sprinted in the corridor toward the exit.,Rapid Movement,rapid_1
+The air conditioner near the exit door is not working.,Facility Issue,facility_0
+A customer suddenly started running in the corridor.,Rapid Movement,rapid_5
+The window latch in the corridor is jammed and cannot be used.,Facility Issue,facility_6
+A guard collapsed in the cafeteria and was lying on the floor.,Fall Report,fall_2
+A person reported that the corridor lamp near the entrance is broken.,Facility Issue,facility_1
+A customer stood in line at the main gate and waited patiently.,Normal Activity,normal_1
+An employee entered the building beside the elevator and showed an access pass.,Normal Activity,normal_4
+An employee entered the building near the reception desk and showed an access pass.,Normal Activity,normal_4
+The corridor lamp on the second floor is jammed and cannot be used.,Facility Issue,facility_6
+The access card reader on the staircase is not working.,Facility Issue,facility_0
+A student entered the building beside the elevator and showed an access pass.,Normal Activity,normal_4
+Facility alert: corridor lamp in the corridor is out of order,Facility Issue,facility_7
+A visitor sprinted in the lobby toward the exit.,Rapid Movement,rapid_1
+The security camera near the reception desk has been flickering since morning.,Facility Issue,facility_3
+"A guard fell down near the entrance, other people rushed to help.",Fall Report,fall_6
+"An elderly man fell down in the lobby, other people rushed to help.",Fall Report,fall_6
+A woman tripped over the step in the lobby and hit the ground.,Fall Report,fall_3
+The air conditioner in the parking lot is jammed and cannot be used.,Facility Issue,facility_6
+There is a water leak near the window latch near the exit door.,Facility Issue,facility_2
+"A wet floor warning is needed on the second floor, the elevator is leaking.",Facility Issue,facility_5
+An elderly man slipped and fell on the staircase,Fall Report,fall_1
+A young woman walked calmly near the entrance while turning a corner.,Normal Activity,normal_0
+The window latch at the main gate is jammed and cannot be used.,Facility Issue,facility_6
+the elevator on the second floor has been flickering since morning.,Facility Issue,facility_3
+An elderly man entered the building near the entrance and showed an access pass.,Normal Activity,normal_4
+An employee lost balance while climbing the stairs and dropped to the ground near the reception desk.,Fall Report,fall_5
+A guard suddenly started running in the lobby.,Rapid Movement,rapid_5
+A visitor was waiting on the staircase for a colleague.,Normal Activity,normal_6
+A young woman sat on a bench in the parking lot reading a newspaper.,Normal Activity,normal_3
+There is a water leak near the ceiling light in the parking lot.,Facility Issue,facility_2
+An elderly man fell on the second floor while carrying a bag.,Fall Report,fall_0
+There is a water leak near the corridor lamp on the staircase.,Facility Issue,facility_2
+A fast movement was noticed on the staircase: A man was running.,Rapid Movement,rapid_7
+A customer was waiting beside the elevator for a colleague.,Normal Activity,normal_6
+A staff member suddenly started running beside the elevator.,Rapid Movement,rapid_5
+"A wet floor warning is needed near the reception desk, the security camera is leaking.",Facility Issue,facility_5
+A child hurried in the cafeteria at high speed while talking on the phone.,Rapid Movement,rapid_4
+A child ran quickly in the parking lot while waiting in line.,Rapid Movement,rapid_0
+A fast movement was noticed near the reception desk: A man was running.,Rapid Movement,rapid_7
+Someone was found lying motionless on the floor in the cafeteria.,Fall Report,fall_4
+Report of a fall: A customer went down beside the elevator while climbing the stairs.,Fall Report,fall_7
+Report of a fall: An elderly man went down near the reception desk while leaving the hall.,Fall Report,fall_7
+"A wet floor warning is needed near the exit door, the corridor lamp is leaking.",Facility Issue,facility_5
+An employee rushed beside the elevator and pushed through the crowd,Rapid Movement,rapid_2
+Facility alert: water pipe in the corridor is out of order.,Facility Issue,facility_7
+The air conditioner near the reception desk is jammed and cannot be used.,Facility Issue,facility_6
+A woman stood in line at the loading dock and waited patiently.,Normal Activity,normal_1
+"The fire exit sign on the staircase needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+Several people dashed on the staircase in the same direction,Rapid Movement,rapid_3
+Report of a fall: A visitor went down in the lobby while talking on the phone.,Fall Report,fall_7
+"A wet floor warning is needed at the loading dock, the corridor lamp is leaking.",Facility Issue,facility_5
+A staff member sat on a bench near the entrance reading a newspaper.,Normal Activity,normal_3
+A student was waiting in the cafeteria for a colleague.,Normal Activity,normal_6
+A young woman reported that the water dispenser in the corridor is broken.,Facility Issue,facility_1
+The air conditioner on the second floor is not working.,Facility Issue,facility_0
+a person walked calmly in the cafeteria while waiting in line.,Normal Activity,normal_0
+Facility alert: elevator beside the elevator is out of order.,Facility Issue,facility_7
+An employee walked calmly near the entrance while climbing the stairs.,Normal Activity,normal_0
+A child entered the building at the loading dock and showed an access pass.,Normal Activity,normal_4
+"An employee fell down in the lobby, other people rushed to help.",Fall Report,fall_6
+A customer lost balance while walking and dropped to the ground on the second floor.,Fall Report,fall_5
+A young woman walked slowly in the cafeteria while waiting in line and left the area.,Normal Activity,normal_7
+A staff member fell in the corridor while talking on the phone.,Fall Report,fall_0
+a staff member was waiting in the lobby for a colleague.,Normal Activity,normal_6
+An elderly man ran quickly in the parking lot while climbing the stairs.,Rapid Movement,rapid_0
+An employee walked calmly in the lobby while turning a corner.,Normal Activity,normal_0
+"Routine movement observed in the lobby, nothing unusual.",Normal Activity,normal_5
+Facility alert: security camera near the reception desk is out of order.,Facility Issue,facility_7
+The fire exit sign at the loading dock is not working.,Facility Issue,facility_0
+A visitor stood in line at the main gate and waited patiently.,Normal Activity,normal_1
+There is a water leak near the corridor lamp near the exit door.,Facility Issue,facility_2
+A guard collapsed near the entrance and was lying on the floor.,Fall Report,fall_2
+A customer hurried in the corridor at high speed while entering the building.,Rapid Movement,rapid_4
+A woman slipped and fell in the cafeteria.,Fall Report,fall_1
+An elderly man walked calmly beside the elevator while turning a corner.,Normal Activity,normal_0
+A child stood in line in the parking lot and waited patiently.,Normal Activity,normal_1
+"A student fell down in the cafeteria, other people rushed to help.",Fall Report,fall_6
+A staff member walked slowly at the main gate while carrying a bag and left the area.,Normal Activity,normal_7
+a person lost balance while leaving the hall and dropped to the ground near the exit door.,Fall Report,fall_5
+A young woman entered the building near the exit door and showed an access pass.,Normal Activity,normal_4
+a person entered the building beside the elevator and showed an access pass.,Normal Activity,normal_4
+A woman bolted near the entrance without stopping,Rapid Movement,rapid_6
+A customer walked calmly in the cafeteria while entering the building.,Normal Activity,normal_0
+A person lost balance while walking and dropped to the ground near the entrance.,Fall Report,fall_5
+A customer sprinted at the loading dock toward the exit.,Rapid Movement,rapid_1
+A customer entered the building near the exit door and showed an access pass.,Normal Activity,normal_4
+A student ran quickly at the main gate while carrying a bag.,Rapid Movement,rapid_0
+The access card reader beside the elevator has been flickering since morning.,Facility Issue,facility_3
+A staff member collapsed near the entrance and was lying on the floor.,Fall Report,fall_2
+Several people were chatting near the reception desk as usual.,Normal Activity,normal_2
+A man fell in the lobby while walking.,Fall Report,fall_0
+A man stood in line near the reception desk and waited patiently.,Normal Activity,normal_1
+A young woman walked calmly beside the elevator while turning a corner.,Normal Activity,normal_0
+An employee sat on a bench in the cafeteria reading a newspaper.,Normal Activity,normal_3
+A child reported that the automatic door on the staircase is broken.,Facility Issue,facility_1
+"A wet floor warning is needed in the corridor, the security camera is leaking.",Facility Issue,facility_5
+A person entered the building in the cafeteria and showed an access pass.,Normal Activity,normal_4
+"Routine movement observed beside the elevator, nothing unusual",Normal Activity,normal_5
+An employee reported that the side gate lock in the lobby is broken.,Facility Issue,facility_1
+"The ceiling light at the loading dock needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+a woman reported that the fire exit sign in the corridor is broken.,Facility Issue,facility_1
+A woman sprinted in the parking lot toward the exit.,Rapid Movement,rapid_1
+"A wet floor warning is needed on the staircase, the access card reader is leaking.",Facility Issue,facility_5
+A young woman rushed on the second floor and pushed through the crowd.,Rapid Movement,rapid_2
+The air conditioner at the main gate is jammed and cannot be used.,Facility Issue,facility_6
+A guard sprinted near the exit door toward the exit.,Rapid Movement,rapid_1
+An elderly man reported that the window latch near the exit door is broken.,Facility Issue,facility_1
+an employee bolted on the second floor without stopping.,Rapid Movement,rapid_6
+An elderly man bolted in the corridor without stopping.,Rapid Movement,rapid_6
+A customer suddenly started running near the exit door.,Rapid Movement,rapid_5
+Facility alert: water pipe near the exit door is out of order.,Facility Issue,facility_7
+A woman fell in the lobby while turning a corner.,Fall Report,fall_0
+An elderly man was waiting near the entrance for a colleague.,Normal Activity,normal_6
+A student lost balance while climbing the stairs and dropped to the ground on the second floor.,Fall Report,fall_5
+"The water dispenser near the exit door needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A student slipped and fell at the main gate.,Fall Report,fall_1
+A customer lost balance while climbing the stairs and dropped to the ground in the parking lot.,Fall Report,fall_5
+Several people were chatting at the main gate as usual.,Normal Activity,normal_2
+A customer rushed near the entrance and pushed through the crowd.,Rapid Movement,rapid_2
+A customer tripped over the step near the exit door and hit the ground.,Fall Report,fall_3
+Several people dashed near the entrance in the same direction.,Rapid Movement,rapid_3
+A child stood in line in the corridor and waited patiently.,Normal Activity,normal_1
+A guard fell near the reception desk while leaving the hall.,Fall Report,fall_0
+Report of a fall: A guard went down beside the elevator while leaving the hall.,Fall Report,fall_7
+A young woman hurried near the entrance at high speed while waiting in line.,Rapid Movement,rapid_4
+facility alert: window latch in the cafeteria is out of order.,Facility Issue,facility_7
+An employee tripped over the step near the reception desk and hit the ground.,Fall Report,fall_3
+A student sprinted at the loading dock toward the exit.,Rapid Movement,rapid_1
+A staff member lost balance while entering the building and dropped to the ground on the staircase.,Fall Report,fall_5
+A guard sprinted in the lobby toward the exit.,Rapid Movement,rapid_1
+An elderly man sat on a bench near the exit door reading a newspaper.,Normal Activity,normal_3
+A person tripped over the step on the staircase and hit the ground.,Fall Report,fall_3
+A guard lost balance while climbing the stairs and dropped to the ground in the lobby.,Fall Report,fall_5
+The ceiling light in the corridor has been flickering since morning.,Facility Issue,facility_3
+a child sprinted in the corridor toward the exit.,Rapid Movement,rapid_1
+An employee lost balance while turning a corner and dropped to the ground in the lobby.,Fall Report,fall_5
+Several people dashed at the loading dock in the same direction.,Rapid Movement,rapid_3
+A fast movement was noticed near the entrance: A guard was running.,Rapid Movement,rapid_7
+A guard walked calmly at the main gate while walking.,Normal Activity,normal_0
+An employee walked calmly in the cafeteria while talking on the phone.,Normal Activity,normal_0
+a woman bolted near the exit door without stopping.,Rapid Movement,rapid_6
+The water pipe on the second floor is jammed and cannot be used.,Facility Issue,facility_6
+A young woman hurried near the reception desk at high speed while turning a corner.,Rapid Movement,rapid_4
+A guard collapsed on the second floor and was lying on the floor,Fall Report,fall_2
+A fast movement was noticed on the second floor: A guard was running.,Rapid Movement,rapid_7
+The security camera in the corridor is not working.,Facility Issue,facility_0
+A staff member sat on a bench in the lobby reading a newspaper.,Normal Activity,normal_3
+Report of a fall: An employee went down on the staircase while talking on the phone.,Fall Report,fall_7
+"The fire exit sign near the entrance needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A staff member entered the building in the parking lot and showed an access pass.,Normal Activity,normal_4
+A man bolted at the loading dock without stopping.,Rapid Movement,rapid_6
+A young woman bolted at the main gate without stopping,Rapid Movement,rapid_6
+There is a water leak near the water pipe at the main gate.,Facility Issue,facility_2
+A customer stood in line on the second floor and waited patiently.,Normal Activity,normal_1
+A guard hurried in the lobby at high speed while entering the building.,Rapid Movement,rapid_4
+A visitor reported that the automatic door beside the elevator is broken.,Facility Issue,facility_1
+An employee sat on a bench on the staircase reading a newspaper.,Normal Activity,normal_3
+An elderly man walked calmly in the corridor while entering the building.,Normal Activity,normal_0
+The water dispenser in the parking lot is jammed and cannot be used.,Facility Issue,facility_6
+A woman collapsed on the second floor and was lying on the floor.,Fall Report,fall_2
+An elderly man hurried on the staircase at high speed while turning a corner.,Rapid Movement,rapid_4
+"The water dispenser at the loading dock needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A student hurried on the second floor at high speed while talking on the phone.,Rapid Movement,rapid_4
+A staff member suddenly started running on the staircase.,Rapid Movement,rapid_5
+A young woman lost balance while carrying a bag and dropped to the ground in the parking lot.,Fall Report,fall_5
+A young woman tripped over the step near the reception desk and hit the ground.,Fall Report,fall_3
+A staff member sprinted in the parking lot toward the exit.,Rapid Movement,rapid_1
+An employee reported that the water pipe on the second floor is broken.,Facility Issue,facility_1
+A woman ran quickly in the lobby while waiting in line.,Rapid Movement,rapid_0
+The water pipe at the main gate is not working.,Facility Issue,facility_0
+A fast movement was noticed in the corridor: A woman was running.,Rapid Movement,rapid_7
+A visitor rushed on the second floor and pushed through the crowd.,Rapid Movement,rapid_2
+An employee reported that the security camera on the staircase is broken.,Facility Issue,facility_1
+A student sat on a bench at the main gate reading a newspaper.,Normal Activity,normal_3
+A staff member reported that the access card reader at the loading dock is broken.,Facility Issue,facility_1
+"The fire exit sign near the exit door needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+An elderly man walked calmly in the cafeteria while entering the building.,Normal Activity,normal_0
+A guard stood in line near the reception desk and waited patiently.,Normal Activity,normal_1
+A staff member stood in line on the second floor and waited patiently,Normal Activity,normal_1
+A visitor collapsed beside the elevator and was lying on the floor.,Fall Report,fall_2
+A student bolted in the corridor without stopping.,Rapid Movement,rapid_6
+A man slipped and fell near the reception desk.,Fall Report,fall_1
+An elderly man was waiting beside the elevator for a colleague.,Normal Activity,normal_6
+The ceiling light in the parking lot is not working.,Facility Issue,facility_0
+"Routine movement observed in the corridor, nothing unusual.",Normal Activity,normal_5
+A child was waiting near the exit door for a colleague.,Normal Activity,normal_6
+"A customer fell down on the second floor, other people rushed to help.",Fall Report,fall_6
+Facility alert: elevator on the second floor is out of order.,Facility Issue,facility_7
+A student fell near the entrance while climbing the stairs.,Fall Report,fall_0
+A fast movement was noticed on the second floor: A customer was running.,Rapid Movement,rapid_7
+"A visitor fell down in the lobby, other people rushed to help.",Fall Report,fall_6
+An elderly man rushed at the loading dock and pushed through the crowd.,Rapid Movement,rapid_2
+A young woman reported that the window latch beside the elevator is broken.,Facility Issue,facility_1
+An employee tripped over the step at the loading dock and hit the ground.,Fall Report,fall_3
+An employee reported that the side gate lock in the corridor is broken.,Facility Issue,facility_1
+A student was waiting at the loading dock for a colleague.,Normal Activity,normal_6
+"The fire exit sign at the loading dock needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A person sat on a bench in the parking lot reading a newspaper.,Normal Activity,normal_3
+A visitor walked calmly in the cafeteria while turning a corner.,Normal Activity,normal_0
+An elderly man rushed at the main gate and pushed through the crowd.,Rapid Movement,rapid_2
+A woman lost balance while leaving the hall and dropped to the ground on the second floor.,Fall Report,fall_5
+A fast movement was noticed on the staircase: An employee was running.,Rapid Movement,rapid_7
+a student reported that the elevator on the second floor is broken.,Facility Issue,facility_1
+A young woman lost balance while turning a corner and dropped to the ground in the lobby.,Fall Report,fall_5
+A person rushed near the entrance and pushed through the crowd.,Rapid Movement,rapid_2
+An elderly man entered the building at the main gate and showed an access pass.,Normal Activity,normal_4
+A child was waiting beside the elevator for a colleague.,Normal Activity,normal_6
+A young woman reported that the water dispenser on the staircase is broken.,Facility Issue,facility_1
+An employee collapsed in the lobby and was lying on the floor.,Fall Report,fall_2
+A customer reported that the corridor lamp near the reception desk is broken.,Facility Issue,facility_1
+a woman rushed at the main gate and pushed through the crowd.,Rapid Movement,rapid_2
+"A young woman fell down on the staircase, other people rushed to help.",Fall Report,fall_6
+A child was waiting in the corridor for a colleague.,Normal Activity,normal_6
+A young woman slipped and fell on the second floor.,Fall Report,fall_1
+Facility alert: air conditioner in the corridor is out of order.,Facility Issue,facility_7
+A student bolted on the second floor without stopping.,Rapid Movement,rapid_6
+"The water pipe near the exit door needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+a man sat on a bench in the parking lot reading a newspaper.,Normal Activity,normal_3
+A woman was waiting near the exit door for a colleague.,Normal Activity,normal_6
+A student walked slowly at the main gate while carrying a bag and left the area.,Normal Activity,normal_7
+A young woman collapsed in the lobby and was lying on the floor.,Fall Report,fall_2
+There is a water leak near the fire exit sign at the loading dock.,Facility Issue,facility_2
+The water pipe in the parking lot has been flickering since morning.,Facility Issue,facility_3
+A customer walked slowly in the cafeteria while walking and left the area.,Normal Activity,normal_7
+"A wet floor warning is needed near the reception desk, the fire exit sign is leaking.",Facility Issue,facility_5
+The ceiling light near the exit door has been flickering since morning.,Facility Issue,facility_3
+A fast movement was noticed in the corridor: A young woman was running.,Rapid Movement,rapid_7
+The access card reader in the corridor has been flickering since morning.,Facility Issue,facility_3
+a visitor hurried in the cafeteria at high speed while walking.,Rapid Movement,rapid_4
+A student walked slowly at the loading dock while waiting in line and left the area.,Normal Activity,normal_7
+A visitor slipped and fell near the exit door.,Fall Report,fall_1
+Facility alert: air conditioner on the staircase is out of order.,Facility Issue,facility_7
+An elderly man entered the building on the second floor and showed an access pass.,Normal Activity,normal_4
+There is a water leak near the access card reader beside the elevator.,Facility Issue,facility_2
+An employee slipped and fell near the reception desk.,Fall Report,fall_1
+A fast movement was noticed in the lobby: A child was running.,Rapid Movement,rapid_7
+The air conditioner in the lobby is jammed and cannot be used.,Facility Issue,facility_6
+An elderly man collapsed in the corridor and was lying on the floor.,Fall Report,fall_2
+"A wet floor warning is needed on the second floor, the side gate lock is leaking.",Facility Issue,facility_5
+"a wet floor warning is needed in the lobby, the access card reader is leaking.",Facility Issue,facility_5
+a staff member collapsed in the parking lot and was lying on the floor.,Fall Report,fall_2
+The security camera on the second floor has been flickering since morning.,Facility Issue,facility_3
+A person was waiting near the entrance for a colleague.,Normal Activity,normal_6
+A fast movement was noticed near the reception desk: A student was running.,Rapid Movement,rapid_7
+A visitor walked slowly near the entrance while leaving the hall and left the area.,Normal Activity,normal_7
+A child bolted near the exit door without stopping.,Rapid Movement,rapid_6
+Facility alert: elevator near the exit door is out of order.,Facility Issue,facility_7
+"The water pipe in the cafeteria needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A child tripped over the step in the cafeteria and hit the ground.,Fall Report,fall_3
+The side gate lock near the exit door has been flickering since morning.,Facility Issue,facility_3
+"A man fell down in the lobby, other people rushed to help.",Fall Report,fall_6
+A man suddenly started running at the loading dock.,Rapid Movement,rapid_5
+A man ran quickly in the corridor while climbing the stairs.,Rapid Movement,rapid_0
+A customer walked slowly in the cafeteria while turning a corner and left the area.,Normal Activity,normal_7
+"A student fell down at the loading dock, other people rushed to help.",Fall Report,fall_6
+An employee entered the building near the exit door and showed an access pass.,Normal Activity,normal_4
+there is a water leak near the access card reader on the second floor.,Facility Issue,facility_2
+A child rushed in the lobby and pushed through the crowd.,Rapid Movement,rapid_2
+A customer slipped and fell near the reception desk.,Fall Report,fall_1
+report of a fall: a student went down in the lobby while walking.,Fall Report,fall_7
+An elderly man slipped and fell beside the elevator.,Fall Report,fall_1
+A person stood in line in the corridor and waited patiently.,Normal Activity,normal_1
+"the automatic door in the lobby needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+An elderly man lost balance while talking on the phone and dropped to the ground in the cafeteria.,Fall Report,fall_5
+The elevator on the second floor is jammed and cannot be used.,Facility Issue,facility_6
+facility alert: automatic door beside the elevator is out of order.,Facility Issue,facility_7
+The elevator at the loading dock has been flickering since morning.,Facility Issue,facility_3
+A customer sprinted beside the elevator toward the exit.,Rapid Movement,rapid_1
+The automatic door on the staircase has been flickering since morning.,Facility Issue,facility_3
+A young woman rushed at the loading dock and pushed through the crowd.,Rapid Movement,rapid_2
+A guard was waiting in the cafeteria for a colleague.,Normal Activity,normal_6
+A staff member reported that the access card reader near the exit door is broken.,Facility Issue,facility_1
+The corridor lamp in the lobby has been flickering since morning,Facility Issue,facility_3
+An employee tripped over the step in the parking lot and hit the ground,Fall Report,fall_3
+facility alert: elevator on the staircase is out of order.,Facility Issue,facility_7
+Facility alert: air conditioner in the parking lot is out of order.,Facility Issue,facility_7
+Someone was found lying motionless on the floor near the exit door.,Fall Report,fall_4
+a woman suddenly started running in the parking lot.,Rapid Movement,rapid_5
+A man bolted in the corridor without stopping.,Rapid Movement,rapid_6
+a child suddenly started running in the cafeteria.,Rapid Movement,rapid_5
+An employee fell at the main gate while waiting in line.,Fall Report,fall_0
+a man fell beside the elevator while walking.,Fall Report,fall_0
+A student walked slowly near the entrance while waiting in line and left the area.,Normal Activity,normal_7
+A customer sat on a bench in the parking lot reading a newspaper.,Normal Activity,normal_3
+A child walked calmly near the reception desk while walking.,Normal Activity,normal_0
+An employee sat on a bench in the corridor reading a newspaper.,Normal Activity,normal_3
+A woman hurried near the entrance at high speed while waiting in line.,Rapid Movement,rapid_4
+A child walked slowly in the parking lot while waiting in line and left the area.,Normal Activity,normal_7
+Someone was found lying motionless on the floor near the reception desk.,Fall Report,fall_4
+"A staff member fell down on the second floor, other people rushed to help.",Fall Report,fall_6
+"A visitor fell down beside the elevator, other people rushed to help.",Fall Report,fall_6
+"A wet floor warning is needed on the second floor, the air conditioner is leaking.",Facility Issue,facility_5
+There is a water leak near the access card reader in the corridor.,Facility Issue,facility_2
+"A man fell down near the exit door, other people rushed to help.",Fall Report,fall_6
+A guard slipped and fell at the loading dock.,Fall Report,fall_1
+The water pipe in the lobby has been flickering since morning.,Facility Issue,facility_3
+A staff member hurried at the loading dock at high speed while entering the building.,Rapid Movement,rapid_4
+An elderly man ran quickly near the reception desk while carrying a bag.,Rapid Movement,rapid_0
+An elderly man bolted at the loading dock without stopping.,Rapid Movement,rapid_6
+A visitor fell in the corridor while entering the building.,Fall Report,fall_0
+"The side gate lock in the cafeteria needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A student stood in line near the entrance and waited patiently.,Normal Activity,normal_1
+A man sat on a bench on the second floor reading a newspaper.,Normal Activity,normal_3
+A student rushed in the lobby and pushed through the crowd.,Rapid Movement,rapid_2
+"The water pipe beside the elevator needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+"A wet floor warning is needed in the corridor, the window latch is leaking.",Facility Issue,facility_5
+Report of a fall: A visitor went down near the exit door while carrying a bag.,Fall Report,fall_7
+An elderly man hurried in the cafeteria at high speed while walking.,Rapid Movement,rapid_4
+A student was waiting on the staircase for a colleague.,Normal Activity,normal_6
+A guard entered the building at the main gate and showed an access pass.,Normal Activity,normal_4
+"An employee fell down near the entrance, other people rushed to help.",Fall Report,fall_6
+"The air conditioner near the exit door needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+a man entered the building near the reception desk and showed an access pass.,Normal Activity,normal_4
+A child slipped and fell on the second floor,Fall Report,fall_1
+A man tripped over the step near the entrance and hit the ground.,Fall Report,fall_3
+"A person fell down on the staircase, other people rushed to help.",Fall Report,fall_6
+A visitor hurried near the exit door at high speed while talking on the phone.,Rapid Movement,rapid_4
+"A child fell down near the exit door, other people rushed to help.",Fall Report,fall_6
+Someone was found lying motionless on the floor in the corridor.,Fall Report,fall_4
+a woman stood in line in the cafeteria and waited patiently.,Normal Activity,normal_1
+"An employee fell down in the corridor, other people rushed to help.",Fall Report,fall_6
+Facility alert: water dispenser near the entrance is out of order.,Facility Issue,facility_7
+A student slipped and fell in the corridor.,Fall Report,fall_1
+A woman hurried on the second floor at high speed while climbing the stairs.,Rapid Movement,rapid_4
+A man walked slowly at the main gate while leaving the hall and left the area.,Normal Activity,normal_7
+An employee lost balance while walking and dropped to the ground in the corridor.,Fall Report,fall_5
+A visitor ran quickly beside the elevator while carrying a bag.,Rapid Movement,rapid_0
+The ceiling light beside the elevator has been flickering since morning.,Facility Issue,facility_3
+A person stood in line on the second floor and waited patiently.,Normal Activity,normal_1
+A visitor suddenly started running in the cafeteria.,Rapid Movement,rapid_5
+A man sprinted near the entrance toward the exit.,Rapid Movement,rapid_1
+A visitor tripped over the step in the lobby and hit the ground,Fall Report,fall_3
+A woman slipped and fell on the staircase.,Fall Report,fall_1
+"The side gate lock near the reception desk needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+a young woman tripped over the step near the entrance and hit the ground.,Fall Report,fall_3
+there is a water leak near the automatic door beside the elevator.,Facility Issue,facility_2
+A customer sat on a bench near the reception desk reading a newspaper.,Normal Activity,normal_3
+Report of a fall: A child went down at the main gate while entering the building.,Fall Report,fall_7
+A woman ran quickly on the staircase while leaving the hall.,Rapid Movement,rapid_0
+A man suddenly started running in the lobby.,Rapid Movement,rapid_5
+An elderly man lost balance while carrying a bag and dropped to the ground in the lobby,Fall Report,fall_5
+A person entered the building in the parking lot and showed an access pass.,Normal Activity,normal_4
+a customer reported that the elevator on the second floor is broken.,Facility Issue,facility_1
+A young woman was waiting near the exit door for a colleague.,Normal Activity,normal_6
+An elderly man rushed in the cafeteria and pushed through the crowd.,Rapid Movement,rapid_2
+The water pipe at the main gate is jammed and cannot be used.,Facility Issue,facility_6
+The side gate lock on the second floor has been flickering since morning.,Facility Issue,facility_3
+A fast movement was noticed beside the elevator: A staff member was running.,Rapid Movement,rapid_7
+A person stood in line in the lobby and waited patiently,Normal Activity,normal_1
+A customer slipped and fell on the second floor,Fall Report,fall_1
+A young woman walked calmly near the entrance while carrying a bag.,Normal Activity,normal_0
+A young woman was waiting in the cafeteria for a colleague.,Normal Activity,normal_6
+A visitor rushed near the entrance and pushed through the crowd.,Rapid Movement,rapid_2
+A staff member lost balance while leaving the hall and dropped to the ground in the cafeteria.,Fall Report,fall_5
+A guard hurried in the parking lot at high speed while talking on the phone.,Rapid Movement,rapid_4
+A person tripped over the step at the main gate and hit the ground.,Fall Report,fall_3
+A man reported that the air conditioner on the staircase is broken.,Facility Issue,facility_1
+Facility alert: water dispenser near the exit door is out of order.,Facility Issue,facility_7
+A student sprinted near the reception desk toward the exit.,Rapid Movement,rapid_1
+"The water dispenser in the parking lot needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+An elderly man slipped and fell near the entrance.,Fall Report,fall_1
+A man fell near the reception desk while leaving the hall.,Fall Report,fall_0
+"A wet floor warning is needed on the staircase, the elevator is leaking.",Facility Issue,facility_5
+A guard walked slowly on the staircase while leaving the hall and left the area.,Normal Activity,normal_7
+A customer ran quickly at the main gate while talking on the phone.,Rapid Movement,rapid_0
+A young woman entered the building at the loading dock and showed an access pass.,Normal Activity,normal_4
+An employee hurried at the main gate at high speed while waiting in line.,Rapid Movement,rapid_4
+The security camera in the parking lot is jammed and cannot be used.,Facility Issue,facility_6
+A guard stood in line beside the elevator and waited patiently.,Normal Activity,normal_1
+A young woman entered the building on the staircase and showed an access pass.,Normal Activity,normal_4
+A young woman walked calmly near the reception desk while turning a corner.,Normal Activity,normal_0
+A young woman slipped and fell in the corridor,Fall Report,fall_1
+A fast movement was noticed in the lobby: A visitor was running.,Rapid Movement,rapid_7
+A person was waiting at the main gate for a colleague.,Normal Activity,normal_6
+The fire exit sign at the main gate is not working.,Facility Issue,facility_0
+A man walked calmly on the staircase while turning a corner.,Normal Activity,normal_0
+A visitor rushed beside the elevator and pushed through the crowd.,Rapid Movement,rapid_2
+A young woman sprinted at the loading dock toward the exit.,Rapid Movement,rapid_1
+An employee walked calmly on the second floor while climbing the stairs.,Normal Activity,normal_0
+A staff member collapsed at the loading dock and was lying on the floor.,Fall Report,fall_2
+A guard tripped over the step in the parking lot and hit the ground.,Fall Report,fall_3
+A fast movement was noticed near the exit door: A person was running.,Rapid Movement,rapid_7
+A guard lost balance while waiting in line and dropped to the ground in the corridor.,Fall Report,fall_5
+"A visitor fell down near the exit door, other people rushed to help.",Fall Report,fall_6
+An elderly man sat on a bench near the reception desk reading a newspaper,Normal Activity,normal_3
+A man stood in line near the exit door and waited patiently.,Normal Activity,normal_1
+a staff member tripped over the step on the second floor and hit the ground.,Fall Report,fall_3
+A child lost balance while talking on the phone and dropped to the ground at the main gate.,Fall Report,fall_5
+A child hurried near the entrance at high speed while leaving the hall,Rapid Movement,rapid_4
+A man bolted in the lobby without stopping.,Rapid Movement,rapid_6
+A person walked calmly in the corridor while talking on the phone.,Normal Activity,normal_0
+There is a water leak near the ceiling light near the exit door.,Facility Issue,facility_2
+An elderly man tripped over the step at the main gate and hit the ground.,Fall Report,fall_3
+An elderly man was waiting in the parking lot for a colleague.,Normal Activity,normal_6
+A woman stood in line in the corridor and waited patiently.,Normal Activity,normal_1
+The side gate lock in the lobby is not working.,Facility Issue,facility_0
+"A child fell down in the parking lot, other people rushed to help.",Fall Report,fall_6
+A man suddenly started running in the corridor.,Rapid Movement,rapid_5
+A guard slipped and fell on the second floor.,Fall Report,fall_1
+The air conditioner at the main gate is not working,Facility Issue,facility_0
+There is a water leak near the water dispenser near the reception desk.,Facility Issue,facility_2
+A visitor collapsed at the loading dock and was lying on the floor.,Fall Report,fall_2
+An elderly man stood in line in the cafeteria and waited patiently.,Normal Activity,normal_1
+Several people were chatting beside the elevator as usual.,Normal Activity,normal_2
+An elderly man walked slowly at the loading dock while waiting in line and left the area.,Normal Activity,normal_7
+Facility alert: side gate lock near the exit door is out of order.,Facility Issue,facility_7
+A man ran quickly near the entrance while turning a corner.,Rapid Movement,rapid_0
+"Routine movement observed near the exit door, nothing unusual.",Normal Activity,normal_5
+A customer was waiting near the reception desk for a colleague.,Normal Activity,normal_6
+A student walked slowly on the staircase while turning a corner and left the area.,Normal Activity,normal_7
+A woman rushed in the lobby and pushed through the crowd.,Rapid Movement,rapid_2
+the security camera near the exit door is jammed and cannot be used.,Facility Issue,facility_6
+A guard sat on a bench beside the elevator reading a newspaper.,Normal Activity,normal_3
+A guard hurried near the exit door at high speed while waiting in line.,Rapid Movement,rapid_4
+"The window latch beside the elevator needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A visitor bolted in the lobby without stopping,Rapid Movement,rapid_6
+An employee sprinted near the exit door toward the exit.,Rapid Movement,rapid_1
+a woman slipped and fell in the corridor.,Fall Report,fall_1
+A guard walked slowly on the second floor while walking and left the area.,Normal Activity,normal_7
+A guard walked slowly beside the elevator while entering the building and left the area.,Normal Activity,normal_7
+An elderly man walked calmly on the staircase while turning a corner.,Normal Activity,normal_0
+a staff member bolted at the loading dock without stopping.,Rapid Movement,rapid_6
+"The ceiling light near the entrance needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A customer ran quickly at the loading dock while carrying a bag.,Rapid Movement,rapid_0
+A man reported that the fire exit sign at the loading dock is broken.,Facility Issue,facility_1
+The fire exit sign near the entrance is not working.,Facility Issue,facility_0
+A staff member stood in line in the lobby and waited patiently.,Normal Activity,normal_1
+An elderly man tripped over the step in the corridor and hit the ground.,Fall Report,fall_3
+The elevator in the corridor is jammed and cannot be used.,Facility Issue,facility_6
+a student sprinted near the exit door toward the exit.,Rapid Movement,rapid_1
+A young woman lost balance while walking and dropped to the ground on the second floor.,Fall Report,fall_5
+An elderly man entered the building near the exit door and showed an access pass.,Normal Activity,normal_4
+A young woman walked calmly at the loading dock while turning a corner.,Normal Activity,normal_0
+A visitor ran quickly in the lobby while carrying a bag.,Rapid Movement,rapid_0
+An elderly man slipped and fell in the parking lot.,Fall Report,fall_1
+a child stood in line in the cafeteria and waited patiently.,Normal Activity,normal_1
+"A person fell down near the entrance, other people rushed to help.",Fall Report,fall_6
+A staff member collapsed beside the elevator and was lying on the floor.,Fall Report,fall_2
+A child slipped and fell beside the elevator.,Fall Report,fall_1
+the automatic door on the second floor is not working.,Facility Issue,facility_0
+The ceiling light in the parking lot has been flickering since morning.,Facility Issue,facility_3
+a staff member tripped over the step in the corridor and hit the ground.,Fall Report,fall_3
+An elderly man reported that the window latch near the reception desk is broken.,Facility Issue,facility_1
+An employee walked calmly in the lobby while climbing the stairs.,Normal Activity,normal_0
+A young woman sat on a bench at the main gate reading a newspaper.,Normal Activity,normal_3
+An elderly man rushed in the parking lot and pushed through the crowd.,Rapid Movement,rapid_2
+A student fell at the loading dock while leaving the hall.,Fall Report,fall_0
+An elderly man walked slowly near the exit door while leaving the hall and left the area,Normal Activity,normal_7
+Report of a fall: A woman went down on the staircase while talking on the phone.,Fall Report,fall_7
+"A young woman fell down near the reception desk, other people rushed to help.",Fall Report,fall_6
+Several people were chatting in the lobby as usual.,Normal Activity,normal_2
+The air conditioner on the second floor is jammed and cannot be used.,Facility Issue,facility_6
+A visitor was waiting near the entrance for a colleague,Normal Activity,normal_6
+A guard sat on a bench on the staircase reading a newspaper.,Normal Activity,normal_3
+Report of a fall: An elderly man went down near the reception desk while waiting in line.,Fall Report,fall_7
+Facility alert: side gate lock on the second floor is out of order.,Facility Issue,facility_7
+Several people were chatting on the staircase as usual.,Normal Activity,normal_2
+A woman walked slowly at the loading dock while carrying a bag and left the area.,Normal Activity,normal_7
+A woman lost balance while entering the building and dropped to the ground in the parking lot.,Fall Report,fall_5
+A visitor lost balance while waiting in line and dropped to the ground at the main gate.,Fall Report,fall_5
+A child lost balance while turning a corner and dropped to the ground near the reception desk.,Fall Report,fall_5
+A customer hurried beside the elevator at high speed while walking.,Rapid Movement,rapid_4
+Facility alert: ceiling light in the cafeteria is out of order.,Facility Issue,facility_7
+"A wet floor warning is needed at the main gate, the corridor lamp is leaking.",Facility Issue,facility_5
+A guard hurried in the parking lot at high speed while leaving the hall.,Rapid Movement,rapid_4
+A person stood in line near the entrance and waited patiently.,Normal Activity,normal_1
+A visitor entered the building on the second floor and showed an access pass.,Normal Activity,normal_4
+A fast movement was noticed on the second floor: A student was running.,Rapid Movement,rapid_7
+An employee reported that the automatic door near the reception desk is broken,Facility Issue,facility_1
+An employee stood in line on the staircase and waited patiently.,Normal Activity,normal_1
+A staff member was waiting near the exit door for a colleague.,Normal Activity,normal_6
+a man hurried in the cafeteria at high speed while climbing the stairs.,Rapid Movement,rapid_4
+A woman bolted in the parking lot without stopping.,Rapid Movement,rapid_6
+report of a fall: a young woman went down near the entrance while waiting in line.,Fall Report,fall_7
+there is a water leak near the window latch in the lobby.,Facility Issue,facility_2
+The corridor lamp in the parking lot is jammed and cannot be used.,Facility Issue,facility_6
+An employee tripped over the step in the corridor and hit the ground.,Fall Report,fall_3
+A person sprinted at the loading dock toward the exit.,Rapid Movement,rapid_1
+A fast movement was noticed on the staircase: A student was running.,Rapid Movement,rapid_7
+A fast movement was noticed in the parking lot: A customer was running.,Rapid Movement,rapid_7
+A person lost balance while carrying a bag and dropped to the ground in the parking lot.,Fall Report,fall_5
+A customer was waiting near the exit door for a colleague.,Normal Activity,normal_6
+A man lost balance while talking on the phone and dropped to the ground in the lobby.,Fall Report,fall_5
+There is a water leak near the ceiling light near the entrance.,Facility Issue,facility_2
+A visitor sprinted near the exit door toward the exit.,Rapid Movement,rapid_1
+The air conditioner beside the elevator is not working.,Facility Issue,facility_0
+a staff member walked slowly in the lobby while turning a corner and left the area.,Normal Activity,normal_7
+A staff member hurried near the reception desk at high speed while entering the building.,Rapid Movement,rapid_4
+"A student fell down on the second floor, other people rushed to help.",Fall Report,fall_6
+"A staff member fell down at the main gate, other people rushed to help.",Fall Report,fall_6
+A guard sprinted in the corridor toward the exit.,Rapid Movement,rapid_1
+An elderly man sat on a bench in the cafeteria reading a newspaper.,Normal Activity,normal_3
+An elderly man bolted on the second floor without stopping.,Rapid Movement,rapid_6
+A student was waiting beside the elevator for a colleague,Normal Activity,normal_6
+A guard hurried near the exit door at high speed while turning a corner.,Rapid Movement,rapid_4
+A guard reported that the ceiling light near the exit door is broken.,Facility Issue,facility_1
+A person was waiting on the second floor for a colleague.,Normal Activity,normal_6
+The fire exit sign in the corridor is jammed and cannot be used.,Facility Issue,facility_6
+"A wet floor warning is needed in the cafeteria, the fire exit sign is leaking.",Facility Issue,facility_5
+A visitor fell in the cafeteria while leaving the hall.,Fall Report,fall_0
+A woman bolted in the cafeteria without stopping.,Rapid Movement,rapid_6
+The elevator at the main gate is jammed and cannot be used.,Facility Issue,facility_6
+there is a water leak near the access card reader near the exit door.,Facility Issue,facility_2
+A customer fell on the staircase while carrying a bag.,Fall Report,fall_0
+A guard entered the building near the reception desk and showed an access pass.,Normal Activity,normal_4
+An employee fell beside the elevator while turning a corner.,Fall Report,fall_0
+A fast movement was noticed at the main gate: A visitor was running.,Rapid Movement,rapid_7
+A child suddenly started running in the parking lot.,Rapid Movement,rapid_5
+Report of a fall: A child went down on the staircase while walking.,Fall Report,fall_7
+A staff member suddenly started running in the parking lot.,Rapid Movement,rapid_5
+Report of a fall: A woman went down at the loading dock while talking on the phone.,Fall Report,fall_7
+A young woman ran quickly in the parking lot while waiting in line.,Rapid Movement,rapid_0
+An elderly man rushed in the corridor and pushed through the crowd.,Rapid Movement,rapid_2
+A fast movement was noticed near the reception desk: A staff member was running.,Rapid Movement,rapid_7
+A fast movement was noticed in the lobby: An elderly man was running.,Rapid Movement,rapid_7
+A customer ran quickly near the exit door while carrying a bag.,Rapid Movement,rapid_0
+A child walked slowly on the second floor while entering the building and left the area.,Normal Activity,normal_7
+A guard reported that the security camera in the lobby is broken.,Facility Issue,facility_1
+A person sat on a bench near the exit door reading a newspaper.,Normal Activity,normal_3
+A fast movement was noticed in the cafeteria: A woman was running.,Rapid Movement,rapid_7
+A staff member entered the building near the reception desk and showed an access pass.,Normal Activity,normal_4
+a person suddenly started running near the reception desk.,Rapid Movement,rapid_5
+An elderly man sat on a bench at the main gate reading a newspaper.,Normal Activity,normal_3
+An employee walked calmly in the lobby while talking on the phone.,Normal Activity,normal_0
+The elevator in the corridor is not working.,Facility Issue,facility_0
+A fast movement was noticed on the second floor: A man was running.,Rapid Movement,rapid_7
+Report of a fall: A woman went down at the loading dock while climbing the stairs.,Fall Report,fall_7
+A young woman sat on a bench on the staircase reading a newspaper.,Normal Activity,normal_3
+A customer ran quickly near the exit door while talking on the phone.,Rapid Movement,rapid_0
+An employee hurried on the second floor at high speed while walking.,Rapid Movement,rapid_4
+Facility alert: automatic door on the staircase is out of order.,Facility Issue,facility_7
+Report of a fall: A child went down in the corridor while waiting in line.,Fall Report,fall_7
+A staff member suddenly started running in the lobby.,Rapid Movement,rapid_5
+Several people were chatting in the cafeteria as usual.,Normal Activity,normal_2
+Facility alert: side gate lock in the parking lot is out of order.,Facility Issue,facility_7
+The automatic door in the corridor has been flickering since morning.,Facility Issue,facility_3
+A guard lost balance while entering the building and dropped to the ground in the lobby.,Fall Report,fall_5
+A person rushed on the staircase and pushed through the crowd.,Rapid Movement,rapid_2
+"A wet floor warning is needed at the loading dock, the ceiling light is leaking.",Facility Issue,facility_5
+A man suddenly started running near the exit door.,Rapid Movement,rapid_5
+An employee walked calmly at the loading dock while leaving the hall.,Normal Activity,normal_0
+A staff member sprinted in the lobby toward the exit.,Rapid Movement,rapid_1
+An employee reported that the fire exit sign in the corridor is broken.,Facility Issue,facility_1
+A staff member sat on a bench in the corridor reading a newspaper.,Normal Activity,normal_3
+a staff member rushed in the corridor and pushed through the crowd.,Rapid Movement,rapid_2
+an employee stood in line in the corridor and waited patiently.,Normal Activity,normal_1
+A young woman collapsed near the exit door and was lying on the floor.,Fall Report,fall_2
+the water pipe near the entrance is jammed and cannot be used.,Facility Issue,facility_6
+A staff member stood in line on the staircase and waited patiently.,Normal Activity,normal_1
+A student hurried near the entrance at high speed while climbing the stairs.,Rapid Movement,rapid_4
+A staff member sat on a bench near the reception desk reading a newspaper.,Normal Activity,normal_3
+A person bolted near the exit door without stopping.,Rapid Movement,rapid_6
+An employee tripped over the step on the staircase and hit the ground.,Fall Report,fall_3
+The water dispenser on the staircase has been flickering since morning.,Facility Issue,facility_3
+an elderly man bolted beside the elevator without stopping.,Rapid Movement,rapid_6
+"The elevator in the cafeteria needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+"a wet floor warning is needed on the second floor, the window latch is leaking.",Facility Issue,facility_5
+A woman tripped over the step near the entrance and hit the ground.,Fall Report,fall_3
+A guard lost balance while waiting in line and dropped to the ground on the staircase.,Fall Report,fall_5
+An elderly man sprinted at the main gate toward the exit.,Rapid Movement,rapid_1
+A man sprinted near the reception desk toward the exit.,Rapid Movement,rapid_1
+"An elderly man fell down on the second floor, other people rushed to help.",Fall Report,fall_6
+A young woman stood in line in the lobby and waited patiently.,Normal Activity,normal_1
+A visitor fell near the reception desk while climbing the stairs.,Fall Report,fall_0
+A fast movement was noticed near the exit door: A customer was running.,Rapid Movement,rapid_7
+A person suddenly started running in the lobby.,Rapid Movement,rapid_5
+A customer reported that the ceiling light on the second floor is broken.,Facility Issue,facility_1
+A child fell beside the elevator while turning a corner.,Fall Report,fall_0
+An elderly man entered the building near the reception desk and showed an access pass,Normal Activity,normal_4
+A young woman rushed on the staircase and pushed through the crowd.,Rapid Movement,rapid_2
+A person collapsed on the staircase and was lying on the floor.,Fall Report,fall_2
+A man slipped and fell near the exit door.,Fall Report,fall_1
+The security camera in the cafeteria is jammed and cannot be used.,Facility Issue,facility_6
+A staff member stood in line in the corridor and waited patiently.,Normal Activity,normal_1
+A woman sprinted near the exit door toward the exit.,Rapid Movement,rapid_1
+A staff member tripped over the step beside the elevator and hit the ground.,Fall Report,fall_3
+The window latch in the cafeteria is not working.,Facility Issue,facility_0
+An elderly man fell near the exit door while carrying a bag.,Fall Report,fall_0
+A woman entered the building near the entrance and showed an access pass.,Normal Activity,normal_4
+Facility alert: water dispenser on the second floor is out of order.,Facility Issue,facility_7
+A woman walked slowly at the loading dock while climbing the stairs and left the area.,Normal Activity,normal_7
+"A wet floor warning is needed beside the elevator, the air conditioner is leaking.",Facility Issue,facility_5
+there is a water leak near the side gate lock at the main gate.,Facility Issue,facility_2
+A visitor ran quickly near the reception desk while climbing the stairs,Rapid Movement,rapid_0
+Report of a fall: A visitor went down in the lobby while waiting in line.,Fall Report,fall_7
+The elevator beside the elevator is jammed and cannot be used.,Facility Issue,facility_6
+An employee suddenly started running near the entrance.,Rapid Movement,rapid_5
+The water dispenser in the cafeteria is jammed and cannot be used.,Facility Issue,facility_6
+Several people were chatting near the entrance as usual.,Normal Activity,normal_2
+A child reported that the window latch at the loading dock is broken.,Facility Issue,facility_1
+A guard ran quickly near the entrance while talking on the phone.,Rapid Movement,rapid_0
+A fast movement was noticed on the second floor: A young woman was running.,Rapid Movement,rapid_7
+A woman sprinted in the cafeteria toward the exit.,Rapid Movement,rapid_1
+Report of a fall: A person went down at the main gate while talking on the phone.,Fall Report,fall_7
+An employee hurried beside the elevator at high speed while turning a corner.,Rapid Movement,rapid_4
+A person walked slowly near the entrance while waiting in line and left the area,Normal Activity,normal_7
+There is a water leak near the automatic door near the reception desk.,Facility Issue,facility_2
+Report of a fall: A customer went down beside the elevator while leaving the hall.,Fall Report,fall_7
+The security camera beside the elevator is jammed and cannot be used.,Facility Issue,facility_6
+There is a water leak near the water dispenser at the loading dock,Facility Issue,facility_2
+A child tripped over the step in the corridor and hit the ground.,Fall Report,fall_3
+A man suddenly started running in the cafeteria.,Rapid Movement,rapid_5
+A visitor entered the building in the corridor and showed an access pass.,Normal Activity,normal_4
+A staff member ran quickly near the entrance while turning a corner.,Rapid Movement,rapid_0
+A customer bolted near the reception desk without stopping.,Rapid Movement,rapid_6
+An elderly man bolted near the exit door without stopping.,Rapid Movement,rapid_6
+A visitor fell at the main gate while leaving the hall.,Fall Report,fall_0
+Several people were chatting at the loading dock as usual,Normal Activity,normal_2
+A young woman ran quickly on the second floor while carrying a bag.,Rapid Movement,rapid_0
+A guard slipped and fell on the staircase.,Fall Report,fall_1
+An employee bolted on the staircase without stopping.,Rapid Movement,rapid_6
+A fast movement was noticed on the staircase: A young woman was running.,Rapid Movement,rapid_7
+A fast movement was noticed in the parking lot: An employee was running.,Rapid Movement,rapid_7
+The access card reader at the main gate has been flickering since morning.,Facility Issue,facility_3
+A customer lost balance while talking on the phone and dropped to the ground in the parking lot.,Fall Report,fall_5
+A young woman lost balance while carrying a bag and dropped to the ground on the staircase.,Fall Report,fall_5
+A man sprinted in the lobby toward the exit.,Rapid Movement,rapid_1
+A young woman walked slowly near the reception desk while leaving the hall and left the area.,Normal Activity,normal_7
+Report of a fall: A customer went down near the exit door while turning a corner.,Fall Report,fall_7
+A visitor tripped over the step in the parking lot and hit the ground.,Fall Report,fall_3
+A customer sprinted in the cafeteria toward the exit.,Rapid Movement,rapid_1
+A student hurried at the main gate at high speed while carrying a bag.,Rapid Movement,rapid_4
+A child bolted beside the elevator without stopping.,Rapid Movement,rapid_6
+A fast movement was noticed in the lobby: An employee was running.,Rapid Movement,rapid_7
+A fast movement was noticed in the lobby: A staff member was running.,Rapid Movement,rapid_7
+A customer bolted on the second floor without stopping.,Rapid Movement,rapid_6
+A woman hurried near the exit door at high speed while climbing the stairs.,Rapid Movement,rapid_4
+A visitor walked slowly in the parking lot while entering the building and left the area.,Normal Activity,normal_7
+A person collapsed on the second floor and was lying on the floor.,Fall Report,fall_2
+A person sat on a bench on the staircase reading a newspaper.,Normal Activity,normal_3
+An elderly man tripped over the step on the staircase and hit the ground.,Fall Report,fall_3
+A child collapsed in the lobby and was lying on the floor.,Fall Report,fall_2
+report of a fall: a visitor went down on the staircase while walking.,Fall Report,fall_7
+A customer sat on a bench near the exit door reading a newspaper.,Normal Activity,normal_3
+a guard sprinted near the entrance toward the exit.,Rapid Movement,rapid_1
+A fast movement was noticed in the cafeteria: An employee was running.,Rapid Movement,rapid_7
+A person lost balance while waiting in line and dropped to the ground near the reception desk.,Fall Report,fall_5
+A customer sat on a bench at the loading dock reading a newspaper,Normal Activity,normal_3
+Report of a fall: A person went down on the staircase while walking.,Fall Report,fall_7
+A person sprinted at the main gate toward the exit.,Rapid Movement,rapid_1
+A young woman fell on the staircase while turning a corner.,Fall Report,fall_0
+A visitor hurried on the second floor at high speed while entering the building.,Rapid Movement,rapid_4
+A student collapsed near the entrance and was lying on the floor.,Fall Report,fall_2
+The access card reader beside the elevator is jammed and cannot be used.,Facility Issue,facility_6
+a guard was waiting at the loading dock for a colleague.,Normal Activity,normal_6
+An employee collapsed at the main gate and was lying on the floor.,Fall Report,fall_2
+A person hurried on the second floor at high speed while waiting in line.,Rapid Movement,rapid_4
+A person fell at the loading dock while carrying a bag.,Fall Report,fall_0
+A student walked calmly near the reception desk while climbing the stairs.,Normal Activity,normal_0
+An elderly man entered the building at the loading dock and showed an access pass.,Normal Activity,normal_4
+A woman walked slowly near the entrance while entering the building and left the area,Normal Activity,normal_7
+There is a water leak near the water pipe in the corridor.,Facility Issue,facility_2
+A man tripped over the step in the parking lot and hit the ground.,Fall Report,fall_3
+A guard sat on a bench in the lobby reading a newspaper.,Normal Activity,normal_3
+a child walked slowly at the loading dock while leaving the hall and left the area.,Normal Activity,normal_7
+"A visitor fell down on the staircase, other people rushed to help.",Fall Report,fall_6
+A person lost balance while leaving the hall and dropped to the ground on the second floor.,Fall Report,fall_5
+An employee suddenly started running beside the elevator.,Rapid Movement,rapid_5
+A visitor ran quickly near the entrance while walking.,Rapid Movement,rapid_0
+An elderly man was waiting near the reception desk for a colleague.,Normal Activity,normal_6
+A woman lost balance while turning a corner and dropped to the ground in the corridor.,Fall Report,fall_5
+"A person fell down in the cafeteria, other people rushed to help.",Fall Report,fall_6
+a visitor was waiting near the reception desk for a colleague.,Normal Activity,normal_6
+A student tripped over the step on the staircase and hit the ground.,Fall Report,fall_3
+"A man fell down on the second floor, other people rushed to help.",Fall Report,fall_6
+Facility alert: water pipe on the second floor is out of order.,Facility Issue,facility_7
+A visitor sat on a bench near the entrance reading a newspaper.,Normal Activity,normal_3
+Report of a fall: An employee went down beside the elevator while talking on the phone.,Fall Report,fall_7
+An employee fell beside the elevator while leaving the hall.,Fall Report,fall_0
+A man was waiting beside the elevator for a colleague.,Normal Activity,normal_6
+A customer was waiting on the staircase for a colleague.,Normal Activity,normal_6
+Several people were chatting on the second floor as usual.,Normal Activity,normal_2
+A person stood in line near the exit door and waited patiently.,Normal Activity,normal_1
+"A wet floor warning is needed beside the elevator, the elevator is leaking.",Facility Issue,facility_5
+The automatic door near the exit door has been flickering since morning.,Facility Issue,facility_3
+A woman walked slowly on the second floor while climbing the stairs and left the area.,Normal Activity,normal_7
+"A wet floor warning is needed near the reception desk, the automatic door is leaking.",Facility Issue,facility_5
+An employee walked calmly at the loading dock while talking on the phone.,Normal Activity,normal_0
+There is a water leak near the water pipe near the exit door.,Facility Issue,facility_2
+The fire exit sign near the entrance is jammed and cannot be used.,Facility Issue,facility_6
+Facility alert: security camera on the second floor is out of order,Facility Issue,facility_7
+Report of a fall: An elderly man went down in the parking lot while turning a corner.,Fall Report,fall_7
+A young woman collapsed on the second floor and was lying on the floor.,Fall Report,fall_2
+A man lost balance while talking on the phone and dropped to the ground near the entrance.,Fall Report,fall_5
+An employee rushed at the main gate and pushed through the crowd.,Rapid Movement,rapid_2
+a guard entered the building near the entrance and showed an access pass.,Normal Activity,normal_4
+A guard tripped over the step near the reception desk and hit the ground.,Fall Report,fall_3
+A fast movement was noticed near the exit door: A visitor was running.,Rapid Movement,rapid_7
+A woman hurried near the entrance at high speed while talking on the phone.,Rapid Movement,rapid_4
+"An elderly man fell down near the entrance, other people rushed to help.",Fall Report,fall_6
+The water pipe in the corridor has been flickering since morning.,Facility Issue,facility_3
+The elevator near the entrance is not working.,Facility Issue,facility_0
+A customer hurried in the corridor at high speed while climbing the stairs.,Rapid Movement,rapid_4
+A man stood in line near the entrance and waited patiently.,Normal Activity,normal_1
+A student fell near the exit door while turning a corner.,Fall Report,fall_0
+the ceiling light near the reception desk has been flickering since morning.,Facility Issue,facility_3
+There is a water leak near the corridor lamp near the entrance.,Facility Issue,facility_2
+An elderly man fell beside the elevator while entering the building.,Fall Report,fall_0
+"A wet floor warning is needed near the exit door, the air conditioner is leaking.",Facility Issue,facility_5
+A staff member stood in line in the parking lot and waited patiently.,Normal Activity,normal_1
+A child was waiting in the cafeteria for a colleague.,Normal Activity,normal_6
+A customer stood in line beside the elevator and waited patiently.,Normal Activity,normal_1
+"the water dispenser near the entrance needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A young woman lost balance while carrying a bag and dropped to the ground near the reception desk.,Fall Report,fall_5
+"The ceiling light on the staircase needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+a woman walked calmly in the parking lot while talking on the phone.,Normal Activity,normal_0
+A person ran quickly in the parking lot while talking on the phone.,Rapid Movement,rapid_0
+Report of a fall: A customer went down in the parking lot while carrying a bag.,Fall Report,fall_7
+An elderly man bolted at the main gate without stopping.,Rapid Movement,rapid_6
+A staff member stood in line near the exit door and waited patiently.,Normal Activity,normal_1
+"The air conditioner in the lobby needs maintenance, it is making a loud noise",Facility Issue,facility_4
+A guard stood in line on the second floor and waited patiently,Normal Activity,normal_1
+The automatic door near the reception desk is jammed and cannot be used.,Facility Issue,facility_6
+"The corridor lamp in the parking lot needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A child tripped over the step in the lobby and hit the ground.,Fall Report,fall_3
+A customer slipped and fell in the parking lot.,Fall Report,fall_1
+A staff member lost balance while carrying a bag and dropped to the ground at the main gate,Fall Report,fall_5
+A person was waiting near the exit door for a colleague.,Normal Activity,normal_6
+a young woman tripped over the step in the cafeteria and hit the ground.,Fall Report,fall_3
+A woman rushed in the parking lot and pushed through the crowd.,Rapid Movement,rapid_2
+a staff member was waiting on the second floor for a colleague.,Normal Activity,normal_6
+A child stood in line on the second floor and waited patiently.,Normal Activity,normal_1
+a man hurried beside the elevator at high speed while turning a corner.,Rapid Movement,rapid_4
+an employee stood in line near the entrance and waited patiently.,Normal Activity,normal_1
+The security camera in the cafeteria has been flickering since morning.,Facility Issue,facility_3
+The access card reader in the cafeteria is jammed and cannot be used.,Facility Issue,facility_6
+An elderly man stood in line on the staircase and waited patiently.,Normal Activity,normal_1
+An employee collapsed in the corridor and was lying on the floor.,Fall Report,fall_2
+A woman bolted at the main gate without stopping.,Rapid Movement,rapid_6
+An employee ran quickly near the reception desk while carrying a bag.,Rapid Movement,rapid_0
+A staff member bolted in the cafeteria without stopping.,Rapid Movement,rapid_6
+The elevator near the exit door has been flickering since morning.,Facility Issue,facility_3
+An employee ran quickly on the second floor while talking on the phone.,Rapid Movement,rapid_0
+A young woman sat on a bench in the lobby reading a newspaper.,Normal Activity,normal_3
+An elderly man fell in the corridor while leaving the hall.,Fall Report,fall_0
+A student sprinted on the staircase toward the exit.,Rapid Movement,rapid_1
+A child walked slowly in the cafeteria while leaving the hall and left the area.,Normal Activity,normal_7
+"the water dispenser at the main gate needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+"The elevator near the entrance needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A person reported that the security camera near the entrance is broken.,Facility Issue,facility_1
+An employee tripped over the step in the lobby and hit the ground.,Fall Report,fall_3
+An employee fell near the exit door while waiting in line.,Fall Report,fall_0
+A child hurried near the reception desk at high speed while turning a corner.,Rapid Movement,rapid_4
+"The access card reader at the loading dock needs maintenance, it is making a loud noise.",Facility Issue,facility_4
+A visitor stood in line at the loading dock and waited patiently.,Normal Activity,normal_1
+The elevator in the lobby has been flickering since morning.,Facility Issue,facility_3
+A student collapsed at the main gate and was lying on the floor.,Fall Report,fall_2
+several people dashed near the exit door in the same direction.,Rapid Movement,rapid_3
+"Routine movement observed on the staircase, nothing unusual.",Normal Activity,normal_5
+A staff member sprinted in the cafeteria toward the exit.,Rapid Movement,rapid_1
+A guard collapsed near the reception desk and was lying on the floor.,Fall Report,fall_2
+A fast movement was noticed at the loading dock: A child was running.,Rapid Movement,rapid_7
+An elderly man lost balance while talking on the phone and dropped to the ground on the staircase.,Fall Report,fall_5
+An employee walked slowly near the entrance while carrying a bag and left the area.,Normal Activity,normal_7
+The ceiling light on the second floor has been flickering since morning.,Facility Issue,facility_3
+A student walked slowly in the corridor while climbing the stairs and left the area.,Normal Activity,normal_7
+A staff member slipped and fell in the lobby.,Fall Report,fall_1
+A man slipped and fell on the staircase.,Fall Report,fall_1
+a child was waiting near the entrance for a colleague.,Normal Activity,normal_6
+A visitor slipped and fell beside the elevator.,Fall Report,fall_1
+A child stood in line at the main gate and waited patiently,Normal Activity,normal_1
+An employee slipped and fell at the main gate.,Fall Report,fall_1
+The elevator beside the elevator has been flickering since morning.,Facility Issue,facility_3
+Facility alert: fire exit sign at the main gate is out of order.,Facility Issue,facility_7
+A student suddenly started running in the parking lot.,Rapid Movement,rapid_5
+"A guard fell down at the loading dock, other people rushed to help.",Fall Report,fall_6
+A child suddenly started running beside the elevator.,Rapid Movement,rapid_5
+"A wet floor warning is needed on the staircase, the water dispenser is leaking.",Facility Issue,facility_5
+A guard was waiting near the reception desk for a colleague.,Normal Activity,normal_6
+A woman sprinted in the corridor toward the exit.,Rapid Movement,rapid_1
+A customer slipped and fell near the exit door.,Fall Report,fall_1
+A visitor walked calmly at the main gate while carrying a bag.,Normal Activity,normal_0
+A guard ran quickly at the loading dock while waiting in line.,Rapid Movement,rapid_0
+An employee sprinted in the parking lot toward the exit.,Rapid Movement,rapid_1
+The corridor lamp in the corridor has been flickering since morning.,Facility Issue,facility_3
+An employee entered the building in the parking lot and showed an access pass.,Normal Activity,normal_4
+A young woman ran quickly near the exit door while climbing the stairs.,Rapid Movement,rapid_0
+A man reported that the automatic door near the exit door is broken.,Facility Issue,facility_1
+a visitor was waiting at the main gate for a colleague.,Normal Activity,normal_6
+An employee walked slowly near the exit door while leaving the hall and left the area.,Normal Activity,normal_7
+a child rushed at the main gate and pushed through the crowd.,Rapid Movement,rapid_2
+The side gate lock in the corridor is not working.,Facility Issue,facility_0
+A student rushed at the loading dock and pushed through the crowd.,Rapid Movement,rapid_2
+The ceiling light in the cafeteria is jammed and cannot be used.,Facility Issue,facility_6
+A guard sprinted near the reception desk toward the exit.,Rapid Movement,rapid_1
+A customer fell in the parking lot while turning a corner.,Fall Report,fall_0
+A child reported that the ceiling light near the exit door is broken.,Facility Issue,facility_1
+a staff member stood in line beside the elevator and waited patiently.,Normal Activity,normal_1
+A student entered the building in the corridor and showed an access pass.,Normal Activity,normal_4
+A customer sat on a bench at the main gate reading a newspaper.,Normal Activity,normal_3
+A visitor bolted near the exit door without stopping.,Rapid Movement,rapid_6
+A young woman stood in line in the cafeteria and waited patiently.,Normal Activity,normal_1
+An elderly man sprinted at the loading dock toward the exit.,Rapid Movement,rapid_1
+A child walked calmly beside the elevator while entering the building.,Normal Activity,normal_0

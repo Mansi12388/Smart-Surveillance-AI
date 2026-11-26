@@ -1,0 +1,5 @@
+video_path,label,split,source_group,n_frames_saved
+videos/Walking/Finding_Forrester_1_walk_f_nm_np1_fr_bad_1.avi,Walking,train,Finding_Forrester_1_walk,16
+videos/Walking/TheLastManOnearth_walk_f_cm_np1_fr_med_36.avi,Walking,train,TheLastManOnearth_walk,16
+videos/Sitting/AmericanGangster_sit_u_cm_np1_ba_bad_16.avi,Sitting,train,AmericanGangster_sit,16
+videos/Standing/Shadow_of_a_Doubt_stand_u_cm_np1_fr_med_3.avi,Standing,train,Shadow_of_a_Doubt_stand,16
